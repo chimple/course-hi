@@ -1,0 +1,68 @@
+{
+  "rows": [
+    [
+      "letterboard",
+      "1",
+      "Description",
+      "अ,आ,इ,ई,उ,ऊ,ऋ,ए,ऐ,ओ,औ,अं,अः,अँ",
+      "Alpha",
+      "20",
+      "0",
+      "30",
+      "-10",
+      "170",
+      "140",
+      "n"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "अ",
+      "इ ",
+      "अ",
+      "उ ",
+      "",
+      "",
+      "अ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "इ ",
+      "ए ",
+      "इ ",
+      "अ",
+      "",
+      "इ "
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ऊ",
+      "ऊ",
+      "अ",
+      "उ ",
+      "",
+      "",
+      "ऊ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "अं",
+      "ए ",
+      "इ ",
+      "अं",
+      "",
+      "अं"
+    ]
+  ]
+}

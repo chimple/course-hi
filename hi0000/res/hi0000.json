@@ -1,0 +1,72 @@
+{
+  "rows": [
+    [
+      "phonictractor",
+      "1",
+      "Description",
+      "5",
+      "अ",
+      "अ.mp3",
+      "अ",
+      "अ.mp3"
+    ],
+    [
+      "writeletter",
+      "1",
+      "Description",
+      "अ",
+      "अनार"
+    ],
+    [
+      "writecard",
+      "1",
+      "Description",
+      "अ",
+      "अनार",
+      "अनार.png",
+      "अनार.mp3",
+      "अजगर",
+      "अजगर.png",
+      "अजगर.mp3",
+      "अनानास",
+      "अनानास.png",
+      "अनानास.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "अ",
+      "इ ",
+      "अ",
+      "उ ",
+      "",
+      "",
+      "अ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "word_word",
+      "अ",
+      "ए ",
+      "इ ",
+      "अ",
+      "",
+      "अ"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "अ",
+      "अ",
+      "इ ",
+      "उ ",
+      "अजगर.png"
+    ]
+  ]
+}

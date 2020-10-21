@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2a8533dc-b87d-4119-af3f-f696141b3af6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 195,
+  "height": 259,
+  "platformSettings": {},
+  "subMetas": {
+    "गङ्गा": {
+      "ver": "1.0.4",
+      "uuid": "732179f8-5cc3-4365-b8aa-4b63780164b9",
+      "rawTextureUuid": "2a8533dc-b87d-4119-af3f-f696141b3af6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 195,
+      "height": 259,
+      "rawWidth": 195,
+      "rawHeight": 259,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
