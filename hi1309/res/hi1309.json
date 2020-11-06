@@ -1,0 +1,122 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "बैट/कहां/है?",
+      "",
+      "Whereisthe_bat.jpg",
+      "बैट_कहां_है.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "बिल्ली/कहाँ/है?",
+      "",
+      "Whereisthe_cat.jpg",
+      "बिल्ली_कहाँ_है.mp3"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[क्या] आपको केले पसंद हैं [?]",
+      "क्या_आपको_केले_पसंद_हैं.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[क्या] वह केले पसंद करता है[?]",
+      "क्या_वह_केले_पसंद_करता_है.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "fillblank",
+      "1",
+      "Description",
+      "आपका [बैग] कहां है?",
+      "आपका_बैग_कहां_है.mp3",
+      "किताब",
+      "डेस्क",
+      "गोंद",
+      "10"
+    ],
+    [
+      "fillblank",
+      "1",
+      "Description",
+      "तुम्हारा [पैर] कहां है?",
+      "तुम्हारा_पैर_कहां_है.mp3",
+      "हाथ",
+      "गरदन",
+      "चेहरा",
+      "10"
+    ],
+    [
+      "fillblank",
+      "1",
+      "Description",
+      "आपके [घुटने] कहां हैं?",
+      "आपके_घुटने_कहां_हैं.mp3",
+      "बाल",
+      "हाथ",
+      "पैर",
+      "10"
+    ],
+    [
+      "fillblank",
+      "1",
+      "Description",
+      "तुम्हारी [छाती] कहाँ है?",
+      "तुम्हारी_छाती_कहाँ_है.mp3",
+      "पैर",
+      "ठोड़ी",
+      "गाल",
+      "10"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "बिल्ली कहाँ है?",
+      "बैट कहां है?",
+      "क्या आपको केले पसंद हैं ?",
+      "बिल्ली कहाँ है?",
+      "Whereisthe_cat.jpg",
+      "",
+      "बिल्ली_कहाँ_है.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "Whereisthe_bat.jpg",
+      "Whereisthe_cat.jpg",
+      "Whereisthe_bat.jpg",
+      "komalwalks.jpg",
+      "",
+      "",
+      "बैट_कहां_है.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "क्या आपको केले पसंद हैं ?",
+      "क्या आपको केले पसंद हैं ?",
+      "बैट कहां है?",
+      "बिल्ली कहाँ है?",
+      "",
+      "क्या आपको केले पसंद हैं ?"
+    ]
+  ]
+}

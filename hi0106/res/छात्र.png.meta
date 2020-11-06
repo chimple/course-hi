@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "0b4325da-3e41-48af-88ba-3d078c70643d",
+  "uuid": "2b8e2d5f-4eb6-4759-8dbc-4d8630fe38ce",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "छात्र": {
       "ver": "1.0.4",
-      "uuid": "34d5533e-5afd-4d0c-98e2-999474880a49",
-      "rawTextureUuid": "0b4325da-3e41-48af-88ba-3d078c70643d",
+      "uuid": "afcd23a0-77a4-4658-a6e3-25b7b103c54a",
+      "rawTextureUuid": "2b8e2d5f-4eb6-4759-8dbc-4d8630fe38ce",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

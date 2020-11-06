@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "86948afc-a22b-4ff4-a0c7-7d3b7df4596d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1073,
+  "height": 1157,
+  "platformSettings": {},
+  "subMetas": {
+    "Theroostercrowsevery_morning": {
+      "ver": "1.0.4",
+      "uuid": "01c87cd3-3e1e-45f8-8843-c743134f661e",
+      "rawTextureUuid": "86948afc-a22b-4ff4-a0c7-7d3b7df4596d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1073,
+      "height": 1157,
+      "rawWidth": 1073,
+      "rawHeight": 1157,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

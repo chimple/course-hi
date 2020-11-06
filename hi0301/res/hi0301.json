@@ -1,110 +1,107 @@
 {
   "rows": [
     [
-      "phonictractor",
+      "spelldoor",
       "1",
       "Description",
-      "6",
-      "ठि",
-      "ठि.mp3",
-      "ठ",
-      "ठ.mp3",
-      "ि",
-      "ि.mp3"
+      "एक",
+      "*क",
+      "1",
+      "0",
+      "एक.png",
+      "एक.mp3"
     ],
     [
-      "phonictractor",
+      "spelldoor",
       "1",
       "Description",
-      "6",
-      "डि",
-      "डि.mp3",
-      "ड",
-      "ड.mp3",
-      "ि",
-      "ि.mp3"
+      "मग",
+      "*ग",
+      "1",
+      "0",
+      "मग.png",
+      "मग.mp3"
     ],
     [
-      "phonictractor",
+      "spelldoor",
       "1",
       "Description",
-      "6",
-      "ढि",
-      "ढि.mp3",
-      "ढ",
-      "ढ.mp3",
-      "ि",
-      "ि.mp3"
+      "लट",
+      "*ट",
+      "1",
+      "0",
+      "लट.png",
+      "लट.mp3"
     ],
     [
-      "grid",
+      "spelldoor",
       "1",
       "Description",
-      "क",
-      "आ,इ",
-      "ा,ि"
+      "सर",
+      "*र",
+      "1",
+      "0",
+      "सर.png",
+      "सर.mp3"
     ],
     [
-      "grid",
+      "spelldoor",
       "1",
       "Description",
-      "च",
-      "आ,इ",
-      "ा,ि"
+      "पर",
+      "*र",
+      "1",
+      "0",
+      "पर.png",
+      "पर.mp3"
     ],
     [
-      "grid",
+      "spelldoor",
       "1",
       "Description",
-      "प,न",
-      "आ,इ",
-      "ा,ि"
-    ],
-    [
-      "grid",
+      "जग",
+      "ज*",
       "1",
-      "Description",
-      "म,ल",
-      "आ,इ",
-      "ा,ि"
-    ],
-    [
-      "quizliteracy",
-      "1",
-      "Description",
-      "soundonly_word",
-      "ठि",
-      "डि",
-      "ठि",
-      "ढि",
-      "",
-      "",
-      "ठि.mp3"
-    ],
-    [
-      "quizliteracy",
-      "1",
-      "Description",
-      "word_word",
-      "डि",
-      "ढि",
-      "डि",
-      "ठि",
-      "",
-      "डि"
+      "0",
+      "जग.png",
+      "जग.mp3"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "soundonly_word",
-      "ढि",
-      "ठि",
-      "ढि",
-      "डि",
+      "एक",
+      "एक",
+      "लट",
+      "पर",
       "",
       "",
-      "ढि.mp3"
+      "एक.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "लट",
+      "लट",
+      "एक",
+      "पर",
+      "लट.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "पर",
+      "पर",
+      "पर",
+      "लट",
+      "",
+      "",
+      "पर.mp3"
     ]
   ]
 }

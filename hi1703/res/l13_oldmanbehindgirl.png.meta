@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "dcbf11da-78f8-42de-a908-eda5cbcd1e93",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "l13_oldmanbehindgirl": {
+      "ver": "1.0.4",
+      "uuid": "bf703a9b-ae86-4d49-ac27-a6fb11fa413a",
+      "rawTextureUuid": "dcbf11da-78f8-42de-a908-eda5cbcd1e93",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

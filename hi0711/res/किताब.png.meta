@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "00efd031-b6a8-4cf4-848d-0813ac3d7e9f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 193,
+  "height": 153,
+  "platformSettings": {},
+  "subMetas": {
+    "किताब": {
+      "ver": "1.0.4",
+      "uuid": "bc29295c-9ff6-42e2-a235-3445b349af8b",
+      "rawTextureUuid": "00efd031-b6a8-4cf4-848d-0813ac3d7e9f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 193,
+      "height": 153,
+      "rawWidth": 193,
+      "rawHeight": 153,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f37be31d-290d-4ac5-98bf-f20c25a0b100",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 271,
+  "height": 271,
+  "platformSettings": {},
+  "subMetas": {
+    "कटहल": {
+      "ver": "1.0.4",
+      "uuid": "778da891-e7f9-4a57-92e7-3fd2fbaf3bb4",
+      "rawTextureUuid": "f37be31d-290d-4ac5-98bf-f20c25a0b100",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 271,
+      "height": 271,
+      "rawWidth": 271,
+      "rawHeight": 271,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

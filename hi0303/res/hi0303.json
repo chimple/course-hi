@@ -1,110 +1,114 @@
 {
   "rows": [
     [
-      "phonictractor",
-      "1",
-      "Description",
-      "6",
-      "बु",
-      "बु.mp3",
-      "ब",
-      "ब.mp3",
-      "ु",
-      "ु.mp3"
-    ],
-    [
-      "phonictractor",
-      "1",
-      "Description",
-      "6",
-      "भु",
-      "भु.mp3",
-      "भ",
-      "भ.mp3",
-      "ु",
-      "ु.mp3"
-    ],
-    [
-      "phonictractor",
-      "1",
-      "Description",
-      "6",
-      "मु",
-      "मु.mp3",
-      "म",
-      "म.mp3",
-      "ु",
-      "ु.mp3"
-    ],
-    [
       "grid",
       "1",
       "Description",
       "ज",
-      "ई,उ",
-      "ी,ु"
+      "ग,न"
     ],
     [
       "grid",
       "1",
       "Description",
+      "म",
+      "ग,र"
+    ],
+    [
+      "openwindow",
+      "1",
+      "Description",
+      "LEGIT",
+      "ज,ल",
+      "जल.png",
+      "नल.png",
+      "जल.mp3",
+      "ज,ग,न,फ,छा,ता,र,थ,व,न,घ,ट्र,क,घो,ड़ा,हा,थी,आ,म,स"
+    ],
+    [
+      "phonictractor",
+      "1",
+      "Description",
+      "5",
+      "मत",
+      "मत.mp3",
+      "म",
+      "म.mp3",
       "त",
-      "ई,उ",
-      "ी,ु"
+      "त.mp3"
     ],
     [
-      "grid",
+      "phonictractor",
       "1",
       "Description",
-      "ह,ब",
-      "ई,उ",
-      "ी,ु"
+      "5",
+      "एक",
+      "एक.mp3",
+      "ए",
+      "ए.mp3",
+      "क",
+      "क.mp3"
     ],
     [
-      "grid",
+      "rocket",
       "1",
       "Description",
-      "थ,ल",
-      "ई,उ",
-      "ी,ु"
+      "फल",
+      "फ,ल",
+      "फ,ल",
+      "फल.mp3",
+      "फल.png",
+      "False",
+      "False"
     ],
     [
-      "quizliteracy",
+      "rocket",
       "1",
       "Description",
-      "soundonly_word",
-      "बु",
-      "मु",
-      "बु",
-      "भु",
-      "",
-      "",
-      "बु.mp3"
-    ],
-    [
-      "quizliteracy",
-      "1",
-      "Description",
-      "word_word",
-      "भु",
-      "बु",
-      "भु",
-      "मु",
-      "",
-      "भु"
+      "जल",
+      "ज,ल",
+      "ज,ल",
+      "जल.mp3",
+      "जल.png",
+      "False",
+      "False"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "soundonly_word",
-      "मु",
-      "भु",
-      "मु",
-      "बु",
+      "मत",
+      "फल",
+      "जल",
+      "मत",
       "",
       "",
-      "मु.mp3"
+      "मत.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "फल",
+      "जल",
+      "फल",
+      "मत",
+      "फल.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "जल",
+      "मत",
+      "जल",
+      "फल",
+      "",
+      "",
+      "जल.mp3"
     ]
   ]
 }

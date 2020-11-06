@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "cd4b906d-09e8-45f7-8731-5eb9d9faaab3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 193,
+  "height": 153,
+  "platformSettings": {},
+  "subMetas": {
+    "सूरजमुखी": {
+      "ver": "1.0.4",
+      "uuid": "f300c4e2-1347-4fd0-9967-c60a2928b9f4",
+      "rawTextureUuid": "cd4b906d-09e8-45f7-8731-5eb9d9faaab3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 193,
+      "height": 153,
+      "rawWidth": 193,
+      "rawHeight": 153,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

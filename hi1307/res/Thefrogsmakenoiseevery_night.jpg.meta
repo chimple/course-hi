@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "fbfea209-a33e-4173-bf5e-117f9515a206",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1073,
+  "height": 1157,
+  "platformSettings": {},
+  "subMetas": {
+    "Thefrogsmakenoiseevery_night": {
+      "ver": "1.0.4",
+      "uuid": "25d57dbd-c1dd-4976-bd5f-490c8cb90b63",
+      "rawTextureUuid": "fbfea209-a33e-4173-bf5e-117f9515a206",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1073,
+      "height": 1157,
+      "rawWidth": 1073,
+      "rawHeight": 1157,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

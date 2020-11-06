@@ -1,0 +1,158 @@
+{
+  "rows": [
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[हम] तेज हैं।",
+      "हम_तेज_हैं.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[मैं] एक लड़की हूँ।",
+      "मैं_एक_लडकी_हूँ.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[हम] तेज हैं |",
+      "हम_तेज_हैं.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[हमें] केले पसंद हैं |",
+      "हमें_केले_पसंद_हैं.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[वह] खेलता है।",
+      "वह_खेलता_है.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[वह] चलती है।",
+      "वह_चलती_है.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[वह] बढ़ता है।",
+      "वह_बढ़ता_है.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "हम",
+      "हम",
+      "क्रिया",
+      "वैसे",
+      "",
+      "_______ तेज हैं।",
+      "हम_तेज_हैं.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "मैं",
+      "उनसे",
+      "पर",
+      "मैं",
+      "",
+      "_______ एक लड़की हूँ।",
+      "मैं_एक_लडकी_हूँ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "हम",
+      "हम",
+      "बनाए",
+      "हमको",
+      "",
+      "_______  तेज हैं |",
+      "हम_तेज_हैं.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "हम",
+      "मेरे",
+      "हम",
+      "मेरी",
+      "",
+      "_______  केले पसंद हैं |",
+      "हमें_केले_पसंद_हैं.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "हम",
+      "नीचे",
+      "बस",
+      "हम",
+      "",
+      "_______  खेलता है।",
+      "वह_खेलता_है.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "हम",
+      "होना",
+      "हम",
+      "अब",
+      "",
+      "_______  चलती है।",
+      "वह_चलती_है.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "हम",
+      "हम",
+      "सभी",
+      "पर",
+      "",
+      "_______ बढ़ता है।",
+      "वह_बढ़ता_है.mp3"
+    ]
+  ]
+}

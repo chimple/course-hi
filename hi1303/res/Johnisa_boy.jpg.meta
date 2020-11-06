@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d744705a-c44d-4c68-be92-0a4a697ef042",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1073,
+  "height": 513,
+  "platformSettings": {},
+  "subMetas": {
+    "Johnisa_boy": {
+      "ver": "1.0.4",
+      "uuid": "b6ca0fd6-b302-41c0-843d-84d801627787",
+      "rawTextureUuid": "d744705a-c44d-4c68-be92-0a4a697ef042",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1073,
+      "height": 513,
+      "rawWidth": 1073,
+      "rawHeight": 513,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

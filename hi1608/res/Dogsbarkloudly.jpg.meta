@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "91e8b549-22b5-4725-a0e1-aeca79908d48",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1073,
+  "height": 480,
+  "platformSettings": {},
+  "subMetas": {
+    "Dogsbarkloudly": {
+      "ver": "1.0.4",
+      "uuid": "62ad8e59-21db-4fc1-940b-2922c9d292d1",
+      "rawTextureUuid": "91e8b549-22b5-4725-a0e1-aeca79908d48",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1073,
+      "height": 480,
+      "rawWidth": 1073,
+      "rawHeight": 480,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

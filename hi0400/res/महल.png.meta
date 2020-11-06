@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6978116d-7dbe-4cd1-9515-f5bad3879f99",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 370,
+  "height": 273,
+  "platformSettings": {},
+  "subMetas": {
+    "महल": {
+      "ver": "1.0.4",
+      "uuid": "aa355158-5f6b-4043-b59b-0277d189e64c",
+      "rawTextureUuid": "6978116d-7dbe-4cd1-9515-f5bad3879f99",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 370,
+      "height": 273,
+      "rawWidth": 370,
+      "rawHeight": 273,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

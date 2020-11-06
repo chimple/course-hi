@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9026fe26-d65f-4a38-b2f9-86bf2ea2e576",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1073,
+  "height": 1157,
+  "platformSettings": {},
+  "subMetas": {
+    "Thevandrivesdown_the_road": {
+      "ver": "1.0.4",
+      "uuid": "5c341ad8-a98f-4d51-ab06-f7759f517700",
+      "rawTextureUuid": "9026fe26-d65f-4a38-b2f9-86bf2ea2e576",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1073,
+      "height": 1157,
+      "rawWidth": 1073,
+      "rawHeight": 1157,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

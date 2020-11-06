@@ -1,78 +1,129 @@
 {
   "rows": [
     [
-      "phonictractor",
+      "spelldoor",
       "1",
       "Description",
-      "6",
-      "चा",
-      "चा.mp3",
-      "च",
-      "च.mp3",
-      "ा",
-      "ा.mp3"
+      "फल",
+      "*ल",
+      "1",
+      "0",
+      "फल.png",
+      "फल.mp3"
     ],
     [
-      "phonictractor",
+      "spelldoor",
       "1",
       "Description",
-      "6",
-      "छा",
-      "छा.mp3",
-      "छ",
-      "छ.mp3",
-      "ा",
-      "ा.mp3"
+      "जल",
+      "*ल",
+      "1",
+      "0",
+      "जल.png",
+      "जल.mp3"
     ],
     [
-      "phonictractor",
+      "spelldoor",
       "1",
       "Description",
-      "6",
-      "झा",
-      "झा.mp3",
-      "झ",
-      "झ.mp3",
-      "ा",
-      "ा.mp3"
+      "खत",
+      "*त",
+      "1",
+      "0",
+      "खत.png",
+      "खत.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "रथ",
+      "*थ",
+      "1",
+      "0",
+      "रथ.png",
+      "रथ.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "वन",
+      "*न",
+      "1",
+      "0",
+      "वन.png",
+      "वन.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "घर",
+      "*र",
+      "1",
+      "0",
+      "घर.png",
+      "घर.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "छत",
+      "*त",
+      "1",
+      "0",
+      "छत.png",
+      "छत.mp3"
+    ],
+    [
+      "spelldoor",
+      "1",
+      "Description",
+      "वन",
+      "*न",
+      "1",
+      "0",
+      "वन.png",
+      "वन.mp3"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "soundonly_word",
-      "चा",
-      "झा",
-      "चा",
-      "छा",
+      "जल",
+      "जल",
+      "घर",
+      "वन",
       "",
       "",
-      "चा.mp3"
+      "जल.mp3"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
-      "word_word",
-      "छा",
-      "चा",
-      "छा",
-      "झा",
-      "",
-      "छा"
+      "image_word",
+      "वन",
+      "घर",
+      "वन",
+      "जल",
+      "वन.png"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "soundonly_word",
-      "झा",
-      "चा",
-      "झा",
-      "छा",
+      "घर",
+      "वन",
+      "जल",
+      "घर",
       "",
       "",
-      "झा.mp3"
+      "घर.mp3"
     ]
   ]
 }

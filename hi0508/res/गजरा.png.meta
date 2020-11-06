@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "cd0938f6-0751-4ccd-991c-14fb479ca47e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 370,
+  "height": 273,
+  "platformSettings": {},
+  "subMetas": {
+    "गजरा": {
+      "ver": "1.0.4",
+      "uuid": "d8ab9b8f-3de2-4494-a00b-40a68e7c1fbb",
+      "rawTextureUuid": "cd0938f6-0751-4ccd-991c-14fb479ca47e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 370,
+      "height": 273,
+      "rawWidth": 370,
+      "rawHeight": 273,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

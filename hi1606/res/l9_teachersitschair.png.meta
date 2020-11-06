@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a1b7a4fe-9105-42c8-b135-d36540100f13",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "l9_teachersitschair": {
+      "ver": "1.0.4",
+      "uuid": "c68202de-9acf-48bd-8b81-4f2371649d99",
+      "rawTextureUuid": "a1b7a4fe-9105-42c8-b135-d36540100f13",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

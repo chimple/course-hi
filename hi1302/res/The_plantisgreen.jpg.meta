@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8313e9a9-d9da-45eb-af8f-c08770622b9a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1073,
+  "height": 824,
+  "platformSettings": {},
+  "subMetas": {
+    "The_plantisgreen": {
+      "ver": "1.0.4",
+      "uuid": "704dc8c2-cae9-4d01-b3c5-3aec925b0d64",
+      "rawTextureUuid": "8313e9a9-d9da-45eb-af8f-c08770622b9a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1073,
+      "height": 824,
+      "rawWidth": 1073,
+      "rawHeight": 824,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

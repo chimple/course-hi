@@ -1,112 +1,112 @@
 {
   "rows": [
     [
-      "phonictractor",
+      "grid",
       "1",
       "Description",
-      "6",
-      "ले",
-      "ले.mp3",
-      "ल",
-      "ल.mp3",
-      "े",
-      "े.mp3"
+      "ग",
+      "ज,म,ल"
     ],
     [
       "phonictractor",
       "1",
       "Description",
       "6",
-      "पै",
-      "पै.mp3",
-      "प",
-      "प.mp3",
-      "ै",
-      "ै.mp3"
-    ],
-    [
-      "phonictractor",
-      "1",
-      "Description",
-      "6",
-      "गो",
-      "गो.mp3",
+      "मगर",
+      "मगर.mp3",
+      "म",
+      "म.mp3",
       "ग",
       "ग.mp3",
-      "ो",
-      "ो.mp3"
+      "र",
+      "र.mp3"
     ],
     [
       "phonictractor",
       "1",
       "Description",
       "6",
-      "गौ",
-      "गौ.mp3",
+      "अगर",
+      "अगर.mp3",
+      "अ",
+      "अ.mp3",
       "ग",
       "ग.mp3",
-      "ौ",
-      "ौ.mp3"
+      "र",
+      "र.mp3"
     ],
     [
       "phonictractor",
       "1",
       "Description",
-      "4",
-      "णः",
-      "णः.mp3",
-      "ण",
-      "ण.mp3",
-      "ः",
-      "ः.mp3"
+      "6",
+      "डगर",
+      "डगर.mp3",
+      "ड",
+      "ड.mp3",
+      "गर",
+      "गर.mp3"
     ],
     [
-      "phonictractor",
+      "rocket",
       "1",
       "Description",
-      "5",
-      "हँ",
-      "हँ.mp3",
-      "ह",
-      "ह.mp3",
-      " ँ",
-      "ँ.mp3"
+      "महल",
+      "",
+      "म,ह,ल",
+      "महल.mp3",
+      "महल.png",
+      "True",
+      "False"
+    ],
+    [
+      "rocket",
+      "1",
+      "Description",
+      "सड़क",
+      "",
+      "स,ड़,क",
+      "सडक.mp3",
+      "सडक.png",
+      "False",
+      "True"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "soundonly_word",
-      "ले",
-      "पै",
-      "ले",
-      "गौ",
+      "मगर",
+      "सड़क",
+      "मगर",
+      "डगर",
       "",
       "",
-      "ले.mp3"
+      "मगर.mp3"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "image_word",
-      "गो",
-      "था",
-      "गो",
-      "गौ",
-      "खरगोश.png"
+      "सड़क",
+      "मगर",
+      "डगर",
+      "सड़क",
+      "सडक.png"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
-      "word_word",
-      "हँ",
-      "हँ",
-      "गौ",
-      "पै",
+      "soundonly_word",
+      "डगर",
+      "डगर",
+      "सड़क",
+      "मगर",
       "",
-      "हँ"
+      "",
+      "डगर.mp3"
     ]
   ]
 }

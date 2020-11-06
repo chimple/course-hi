@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "94a106e6-369b-4407-9617-e6a99455f3c5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 370,
+  "height": 273,
+  "platformSettings": {},
+  "subMetas": {
+    "बाघ": {
+      "ver": "1.0.4",
+      "uuid": "f9764041-1d0f-4d09-9c89-33fb8db4f4ed",
+      "rawTextureUuid": "94a106e6-369b-4407-9617-e6a99455f3c5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 370,
+      "height": 273,
+      "rawWidth": 370,
+      "rawHeight": 273,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

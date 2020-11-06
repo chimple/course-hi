@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1597aaca-aca4-4e7f-9837-8698604dc2dc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 786,
+  "platformSettings": {},
+  "subMetas": {
+    "l16_girlwantsbed": {
+      "ver": "1.0.4",
+      "uuid": "744838da-7902-4e98-94f6-ce7ede8e339f",
+      "rawTextureUuid": "1597aaca-aca4-4e7f-9837-8698604dc2dc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 48.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 786,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

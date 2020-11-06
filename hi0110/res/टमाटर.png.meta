@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "6ed6284b-d47d-4eb2-bc04-e5e78085d981",
+  "uuid": "4f0ced3a-8d03-4c2b-b57a-05a200bdb217",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "टमाटर": {
       "ver": "1.0.4",
-      "uuid": "67bbe62b-87a4-45b3-a673-0a40ad7e4a54",
-      "rawTextureUuid": "6ed6284b-d47d-4eb2-bc04-e5e78085d981",
+      "uuid": "c050af21-b1f7-4376-8351-5fcc17e78592",
+      "rawTextureUuid": "4f0ced3a-8d03-4c2b-b57a-05a200bdb217",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,

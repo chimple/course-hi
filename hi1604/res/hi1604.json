@@ -1,0 +1,121 @@
+{
+  "rows": [
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[मैं] एक लड़की [हूँ]।",
+      "मैं_एक_लडकी_हूँ.mp3",
+      "n",
+      "unlocked"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "आप लंबे [है]।",
+      "आप_लंबे_है.mp3",
+      "n",
+      "unlocked"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "वह बीमार [है]।",
+      "वह_बीमार_है.mp3",
+      "n",
+      "unlocked"
+    ],
+    [
+      "fillblank",
+      "1",
+      "Description",
+      "मेरी बहन अच्छा [गाती] है।",
+      "मेरी_बहन_अच्छा_गाती_है.mp3",
+      "नाचती ",
+      "पढ़ती ",
+      "दौड़ती ",
+      "10"
+    ],
+    [
+      "fillblank",
+      "1",
+      "Description",
+      "मैं भूखा [हूँ]।",
+      "मैं_भूखा_हूँ.mp3",
+      "था ",
+      "रहा ",
+      "रहूँगा  ",
+      "10"
+    ],
+    [
+      "fillblank",
+      "1",
+      "Description",
+      "आशा बीमार [है]।",
+      "आशा_बीमार_है.mp3",
+      "थी  ",
+      "होगी  ",
+      "होरही ",
+      "10"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "रोहन/खेलता/है",
+      "",
+      "rohanplays.jpg",
+      "रोहन_खेलता_है.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "मारिया/तैरती/है",
+      "",
+      "Weswamyesterday.jpg",
+      "मारिया_तैरती_है.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "गाती",
+      "गाती",
+      "पढ़ती ",
+      "दौड़ती ",
+      "",
+      "मेरी बहन अच्छा_______ है।",
+      "मेरी_बहन_अच्छा_गाती_है.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "भूखा",
+      "नाचती ",
+      "भूखा",
+      "गाती",
+      "",
+      "मैं ___ हूँ।",
+      "मैं_भूखा_हूँ.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "है",
+      "था ",
+      "है",
+      "थी  ",
+      "",
+      "आशा बीमार __।",
+      "आशा_बीमार_है.mp3"
+    ]
+  ]
+}

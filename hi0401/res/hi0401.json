@@ -1,122 +1,121 @@
 {
   "rows": [
     [
+      "grid",
+      "1",
+      "Description",
+      "ज",
+      "ब,ड़,ज"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "भ",
+      "ज,र,ग"
+    ],
+    [
       "phonictractor",
       "1",
       "Description",
-      "5",
+      "6",
+      "कमल",
+      "कमल.mp3",
+      "क",
+      "क.mp3",
       "म",
       "म.mp3",
-      "म",
-      "म.mp3"
+      "ल",
+      "ल.mp3"
     ],
     [
       "phonictractor",
       "1",
       "Description",
       "6",
-      "चा",
-      "चा.mp3",
-      "च",
-      "च.mp3",
-      "ा",
-      "ा.mp3"
-    ],
-    [
-      "phonictractor",
-      "1",
-      "Description",
-      "6",
-      "ठि",
-      "ठि.mp3",
-      "ठ",
-      "ठ.mp3",
-      "ि",
-      "ि.mp3"
-    ],
-    [
-      "phonictractor",
-      "1",
-      "Description",
-      "6",
-      "ती",
-      "ती.mp3",
-      "त",
-      "त.mp3",
-      "ी",
-      "ी.mp3"
-    ],
-    [
-      "phonictractor",
-      "1",
-      "Description",
-      "6",
-      "मु",
-      "मु.mp3",
-      "म",
-      "म.mp3",
-      "ु",
-      "ु.mp3"
-    ],
-    [
-      "phonictractor",
-      "1",
-      "Description",
-      "6",
-      "नू",
-      "नू.mp3",
-      "न",
-      "न.mp3",
-      "ू",
-      "ू.mp3"
-    ],
-    [
-      "phonictractor",
-      "1",
-      "Description",
-      "6",
-      "फृ",
-      "फृ.mp3",
+      "फसल",
+      "फसल.mp3",
       "फ",
       "फ.mp3",
-      "ृ",
-      "ृ.mp3"
+      "स",
+      "स.mp3",
+      "ल",
+      "ल.mp3"
+    ],
+    [
+      "phonictractor",
+      "1",
+      "Description",
+      "6",
+      "महल",
+      "महल.mp3",
+      "म",
+      "म.mp3",
+      "ह",
+      "ह.mp3",
+      "ल",
+      "ल.mp3"
+    ],
+    [
+      "rocket",
+      "1",
+      "Description",
+      "नमक",
+      "",
+      "न,म,क",
+      "नमक.mp3",
+      "नमक.png",
+      "False",
+      "True"
+    ],
+    [
+      "rocket",
+      "1",
+      "Description",
+      "कमल",
+      "",
+      "क,म,ल",
+      "कमल.mp3",
+      "कमल.png",
+      "False",
+      "True"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "soundonly_word",
-      "म",
-      "म",
-      "ट",
-      "न",
+      "कमल",
+      "कमल",
+      "महल",
+      "नमक",
       "",
       "",
-      "म.mp3"
+      "कमल.mp3"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
       "image_word",
-      "था",
-      "था",
-      "छा",
-      "झा",
-      "थाली.png"
+      "नमक",
+      "महल",
+      "नमक",
+      "कमल",
+      "नमक.png"
     ],
     [
       "quizliteracy",
       "1",
       "Description",
-      "word_word",
-      "थी",
-      "थी",
-      "ती",
-      "णी",
+      "soundonly_word",
+      "महल",
+      "महल",
+      "कमल",
+      "नमक",
       "",
-      "थी"
+      "",
+      "महल.mp3"
     ]
   ]
 }

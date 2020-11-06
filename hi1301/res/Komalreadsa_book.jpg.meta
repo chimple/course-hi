@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "03b815ab-8755-4c80-983c-53be3f02c02c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1073,
+  "height": 1157,
+  "platformSettings": {},
+  "subMetas": {
+    "Komalreadsa_book": {
+      "ver": "1.0.4",
+      "uuid": "2ba063eb-0eb2-49c3-9654-d04fad004b9d",
+      "rawTextureUuid": "03b815ab-8755-4c80-983c-53be3f02c02c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1073,
+      "height": 1157,
+      "rawWidth": 1073,
+      "rawHeight": 1157,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

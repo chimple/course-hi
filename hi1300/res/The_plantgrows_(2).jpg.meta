@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "fa92b580-51c1-4b6b-84db-e706d6bab2d7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1073,
+  "height": 824,
+  "platformSettings": {},
+  "subMetas": {
+    "The_plantgrows_(2)": {
+      "ver": "1.0.4",
+      "uuid": "a5e2b4c9-959c-4a07-9a1f-945d24bc806c",
+      "rawTextureUuid": "fa92b580-51c1-4b6b-84db-e706d6bab2d7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1073,
+      "height": 824,
+      "rawWidth": 1073,
+      "rawHeight": 824,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
