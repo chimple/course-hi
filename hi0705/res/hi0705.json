@@ -75,8 +75,8 @@
       "जू,ता",
       "जूता.mp3",
       "जूता.png",
-      "False",
-      "False"
+      "false ",
+      "false "
     ],
     [
       "rocket",
@@ -87,8 +87,8 @@
       "अं,गू,ठा",
       "अंगूठा.mp3",
       "अंगूठा.png",
-      "False",
-      "True"
+      "false ",
+      "true "
     ],
     [
       "rocket",
@@ -99,8 +99,8 @@
       "तू,फ़ा,न",
       "तूफ़ान.mp3",
       "तूफ़ान.png",
-      "False",
-      "True"
+      "false ",
+      "true "
     ],
     [
       "rocket",
@@ -111,8 +111,8 @@
       "त,र,बू,ज",
       "तरबूज.mp3",
       "तरबूज.png",
-      "False",
-      "True"
+      "false ",
+      "true "
     ],
     [
       "quizliteracy",

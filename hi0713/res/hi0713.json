@@ -20,8 +20,8 @@
       "मैं",
       "मैं.mp3",
       "मैं.png",
-      "False",
-      "False"
+      "false ",
+      "false "
     ],
     [
       "rocket",
@@ -32,8 +32,8 @@
       "कै,म,रा",
       "कैमरा.mp3",
       "कैमरा.png",
-      "False",
-      "True"
+      "false ",
+      "true "
     ],
     [
       "openwindow",

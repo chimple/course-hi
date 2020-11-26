@@ -9,8 +9,8 @@
       "की,ड़ा",
       "कीडा.mp3",
       "कीडा.png",
-      "False",
-      "False"
+      "false ",
+      "false "
     ],
     [
       "rocket",
@@ -21,8 +21,8 @@
       "की,च,ड़",
       "कीचड.mp3",
       "कीचड.png",
-      "False",
-      "True"
+      "false ",
+      "true "
     ],
     [
       "spelldoor",

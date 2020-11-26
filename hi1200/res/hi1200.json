@@ -1,7 +1,7 @@
 {
   "rows": [
     [
-      "writecard",
+      "writeword",
       "1",
       "Description",
       "नल",
@@ -9,7 +9,7 @@
       "नल.mp3"
     ],
     [
-      "writecard",
+      "writeword",
       "1",
       "Description",
       "फल",
@@ -17,7 +17,7 @@
       "फल.mp3"
     ],
     [
-      "writecard",
+      "writeword",
       "1",
       "Description",
       "जल",
@@ -25,7 +25,7 @@
       "जल.mp3"
     ],
     [
-      "writecard",
+      "writeword",
       "1",
       "Description",
       "बस",
@@ -33,7 +33,7 @@
       "बस.mp3"
     ],
     [
-      "writecard",
+      "writeword",
       "1",
       "Description",
       "रथ",
@@ -41,7 +41,7 @@
       "रथ.mp3"
     ],
     [
-      "writecard",
+      "writeword",
       "1",
       "Description",
       "छत",
@@ -49,7 +49,7 @@
       "छत.mp3"
     ],
     [
-      "writecard",
+      "writeword",
       "1",
       "Description",
       "एक",

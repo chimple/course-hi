@@ -31,8 +31,8 @@
       "स,फ़े,द",
       "सफ़ेद.mp3",
       "सफ़ेद.png",
-      "False",
-      "True"
+      "false ",
+      "true "
     ],
     [
       "rocket",
@@ -43,8 +43,8 @@
       "मे,घ",
       "मेघ.mp3",
       "मेघ.png",
-      "False",
-      "False"
+      "false ",
+      "false "
     ],
     [
       "openwindow",

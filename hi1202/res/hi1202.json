@@ -1,7 +1,7 @@
 {
   "rows": [
     [
-      "writecard",
+      "writeword",
       "1",
       "Description",
       "महल",
@@ -9,7 +9,7 @@
       "महल.mp3"
     ],
     [
-      "writecard",
+      "writeword",
       "1",
       "Description",
       "नहर",
@@ -17,7 +17,7 @@
       "नहर.mp3"
     ],
     [
-      "writecard",
+      "writeword",
       "1",
       "Description",
       "पवन",
@@ -25,7 +25,7 @@
       "पवन.mp3"
     ],
     [
-      "writecard",
+      "writeword",
       "1",
       "Description",
       "नमक",
@@ -33,7 +33,7 @@
       "नमक.mp3"
     ],
     [
-      "writecard",
+      "writeword",
       "1",
       "Description",
       "मटर",
@@ -41,7 +41,7 @@
       "मटर.mp3"
     ],
     [
-      "writecard",
+      "writeword",
       "1",
       "Description",
       "बहन",

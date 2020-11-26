@@ -37,8 +37,8 @@
       "बा,ल,क",
       "बालक.mp3",
       "बालक.png",
-      "False",
-      "True"
+      "false ",
+      "true "
     ],
     [
       "rocket",
@@ -49,8 +49,8 @@
       "बा,द,ल",
       "बादल.mp3",
       "बादल.png",
-      "False",
-      "True"
+      "false ",
+      "true "
     ],
     [
       "speakingpet",
@@ -84,8 +84,8 @@
       "ग,म,ला",
       "गमला.mp3",
       "गमला.png",
-      "False",
-      "True"
+      "false ",
+      "true "
     ],
     [
       "spelldoor",

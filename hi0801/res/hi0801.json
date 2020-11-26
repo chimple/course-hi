@@ -38,8 +38,8 @@
       "गो,ल",
       "गोल.mp3",
       "गोल.png",
-      "False",
-      "False"
+      "false ",
+      "false "
     ],
     [
       "rocket",
@@ -50,8 +50,8 @@
       "रो,टी",
       "रोटी.mp3",
       "रोटी.png",
-      "True",
-      "False"
+      "true ",
+      "false "
     ],
     [
       "spelldoor",

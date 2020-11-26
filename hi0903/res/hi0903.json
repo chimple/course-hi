@@ -56,8 +56,8 @@
       "क,च,रा",
       "कचरा.mp3",
       "कचरा.png",
-      "False",
-      "True"
+      "false ",
+      "true "
     ],
     [
       "rocket",
@@ -68,8 +68,8 @@
       "क,म,ल",
       "कमल.mp3",
       "कमल.png",
-      "False",
-      "True"
+      "false ",
+      "true "
     ],
     [
       "rocket",
@@ -80,8 +80,8 @@
       "क,ल,श",
       "कलश.mp3",
       "कलश.png",
-      "False",
-      "True"
+      "false ",
+      "true "
     ],
     [
       "bubbletype",
