@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "d3b4c39d-6f16-4b51-8375-376b0af5ac86",
+  "uuid": "a43027ae-7424-4591-9570-a41c1a3cc66a",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -11,10 +11,10 @@
   "height": 640,
   "platformSettings": {},
   "subMetas": {
-    "रेत": {
+    "रेत1": {
       "ver": "1.0.4",
-      "uuid": "c26dbec9-7103-4ed5-9c33-9ebd6771a5c6",
-      "rawTextureUuid": "d3b4c39d-6f16-4b51-8375-376b0af5ac86",
+      "uuid": "72d64a6b-f3ca-4c91-858f-3ed74f317a66",
+      "rawTextureUuid": "a43027ae-7424-4591-9570-a41c1a3cc66a",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
