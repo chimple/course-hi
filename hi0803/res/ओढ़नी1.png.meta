@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "02dd57db-ede0-4e9b-b7ab-e7f93be0753b",
+  "uuid": "4796b945-9eab-4d89-ad57-599504b3cf54",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -8,13 +8,13 @@
   "genMipmaps": false,
   "packable": true,
   "width": 193,
-  "height": 193,
+  "height": 175,
   "platformSettings": {},
   "subMetas": {
-    "औरत": {
+    "ओढ़नी1": {
       "ver": "1.0.4",
-      "uuid": "f9aeddb3-2217-4a9a-be10-430cf74238b7",
-      "rawTextureUuid": "02dd57db-ede0-4e9b-b7ab-e7f93be0753b",
+      "uuid": "1171558e-8318-45c9-8523-50a2f8d6dab6",
+      "rawTextureUuid": "4796b945-9eab-4d89-ad57-599504b3cf54",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
@@ -23,9 +23,9 @@
       "trimX": 0,
       "trimY": 0,
       "width": 193,
-      "height": 193,
+      "height": 175,
       "rawWidth": 193,
-      "rawHeight": 193,
+      "rawHeight": 175,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
