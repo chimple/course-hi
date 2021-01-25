@@ -61,12 +61,14 @@
       "quizliteracy",
       "1",
       "Description",
-      "image_word",
+      "soundonly_word",
       "ई",
       "ई",
       "आ",
       "उ ",
-      "ईख.png"
+      "",
+      "",
+      "ई.mp3"
     ]
   ]
 }

@@ -61,12 +61,14 @@
       "quizliteracy",
       "1",
       "Description",
-      "image_word",
+      "soundonly_word",
       "ज्ञ",
       "क्ष",
       "त्र",
       "ज्ञ",
-      "ज्ञानी.png"
+      "",
+      "",
+      "ज्ञ.mp3"
     ]
   ]
 }

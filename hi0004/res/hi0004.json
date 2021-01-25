@@ -61,12 +61,14 @@
       "quizliteracy",
       "1",
       "Description",
-      "image_word",
+      "soundonly_word",
       "उ",
       "उ",
       "इ ",
       "आ",
-      "उल्लू.png"
+      "",
+      "",
+      "उ.mp3"
     ]
   ]
 }

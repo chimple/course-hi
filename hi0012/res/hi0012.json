@@ -61,12 +61,14 @@
       "quizliteracy",
       "1",
       "Description",
-      "image_word",
+      "soundonly_word",
       "अः",
       "इ",
       "ओ",
       "अः",
-      "छ.png"
+      "",
+      "",
+      "अः.mp3"
     ]
   ]
 }

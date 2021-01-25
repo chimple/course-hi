@@ -61,12 +61,14 @@
       "quizliteracy",
       "1",
       "Description",
-      "image_word",
+      "soundonly_word",
       "ओ",
       "ऋ",
       "इ",
       "ओ",
-      "ओकरा.png"
+      "",
+      "",
+      "ओ.mp3"
     ]
   ]
 }

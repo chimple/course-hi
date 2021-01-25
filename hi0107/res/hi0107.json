@@ -46,12 +46,14 @@
       "quizliteracy",
       "1",
       "Description",
-      "image_word",
+      "soundonly_word",
       "ज",
       "ऋ",
       "इ",
       "ज",
-      "जहाज.png"
+      "",
+      "",
+      "ज.mp3"
     ]
   ]
 }
