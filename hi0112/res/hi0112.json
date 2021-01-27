@@ -61,12 +61,14 @@
       "quizliteracy",
       "1",
       "Description",
-      "image_word",
+      "soundonly_word",
       "ड",
       "ऋ",
       "इ",
       "ड",
-      "डकैत.png"
+      "",
+      "",
+      "ड.mp3"
     ]
   ]
 }
