@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "6b0942a5-1071-4b7a-bf6b-27e51780ec75",
+  "uuid": "4755217f-6f4a-471f-95f2-2157d57de80a",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -11,10 +11,10 @@
   "height": 630,
   "platformSettings": {},
   "subMetas": {
-    "टांग": {
+    "चांद1": {
       "ver": "1.0.4",
-      "uuid": "69afd77c-dc0e-4128-b69d-85ce05a6947a",
-      "rawTextureUuid": "6b0942a5-1071-4b7a-bf6b-27e51780ec75",
+      "uuid": "5aeb823a-f508-4c1a-9d78-85493646db5b",
+      "rawTextureUuid": "4755217f-6f4a-471f-95f2-2157d57de80a",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
