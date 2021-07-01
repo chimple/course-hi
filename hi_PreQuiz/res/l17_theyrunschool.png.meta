@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e0a7bc5c-6662-4c86-bc2e-3a6a09d4710f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "l17_theyrunschool": {
+      "ver": "1.0.4",
+      "uuid": "3ed0644a-f10b-46c9-847c-54e4bf89e811",
+      "rawTextureUuid": "e0a7bc5c-6662-4c86-bc2e-3a6a09d4710f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
