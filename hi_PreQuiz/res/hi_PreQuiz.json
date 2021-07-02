@@ -5,13 +5,13 @@
       "1",
       "Description",
       "soundonly_word",
-      "पीठ",
-      "पीठ",
-      "झील",
-      "पीला",
+      "अ",
+      "अ",
+      "इ ",
+      "उ ",
       "",
       "",
-      "पीठ.mp3"
+      "अ.mp3"
     ],
     [
       "quizliteracy",
@@ -30,12 +30,13 @@
       "quizliteracy",
       "1",
       "Description",
-      "image_word",
-      "ख",
-      "क",
+      "word_word",
+      "घ",
+      "ग",
       "इ",
-      "ख",
-      "खरगोश.png"
+      "घ",
+      "",
+      "घ"
     ],
     [
       "quizliteracy",
@@ -67,12 +68,26 @@
       "quizliteracy",
       "1",
       "Description",
-      "image_word",
-      "वन",
-      "घर",
-      "वन",
-      "जल",
-      "वन.png"
+      "word_word",
+      "य",
+      "य",
+      "न",
+      "म",
+      "",
+      "य"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
+      "ह",
+      "स",
+      "ह",
+      "प",
+      "",
+      "",
+      "ह.mp3"
     ],
     [
       "quizliteracy",
@@ -216,6 +231,19 @@
       "1",
       "Description",
       "soundonly_word",
+      "झील",
+      "पीला",
+      "पीठ",
+      "झील",
+      "",
+      "",
+      "झील.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_word",
       "पर्वत",
       "पर्वत",
       "प्रश्न",
@@ -236,6 +264,17 @@
       "",
       "",
       "सुखद.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "अंतरिक्ष",
+      "अंतरिक्ष",
+      "वैज्ञानिक",
+      "इलाइची",
+      "अंतरिक्ष.png"
     ],
     [
       "quizliteracy",
