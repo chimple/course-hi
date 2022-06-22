@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "0678ef39-9c77-4415-9bab-827529e28fa3",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "सूरजमुखी": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "14dbf65a-fc97-4a32-92b6-2b71a36743fb",
+      "importer": "sprite-frame",
       "rawTextureUuid": "0678ef39-9c77-4415-9bab-827529e28fa3",
       "trimType": "auto",
       "trimThreshold": 1,

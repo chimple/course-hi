@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "c11c7dfa-daf6-4186-b5fc-620b2b22d0a9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l4_2lemons1tomato": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0068fb11-d1d2-487b-bf00-a3fdc4f94fbc",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c11c7dfa-daf6-4186-b5fc-620b2b22d0a9",
       "trimType": "auto",
       "trimThreshold": 1,

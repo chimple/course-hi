@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4048c403-256c-4ff9-9166-1a8233bbe813",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l13_oldmanbtwboys": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "1fb22c12-0d73-403d-bf3b-2eeb513ff7b0",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4048c403-256c-4ff9-9166-1a8233bbe813",
       "trimType": "auto",
       "trimThreshold": 1,

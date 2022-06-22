@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4ba4766d-51a4-42ec-ad45-cf55c4d78d97",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "चीकू": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "747c0720-4fab-40bb-a7db-cf3624a03d48",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4ba4766d-51a4-42ec-ad45-cf55c4d78d97",
       "trimType": "auto",
       "trimThreshold": 1,

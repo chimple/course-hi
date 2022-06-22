@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e3702685-8d72-40c4-bc4f-e5b4525da1ca",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l17_shehelpmomdry": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "4b80d64b-7e97-4927-9331-9fa9f91492fa",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e3702685-8d72-40c4-bc4f-e5b4525da1ca",
       "trimType": "auto",
       "trimThreshold": 1,

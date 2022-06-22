@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "22e363ac-ff5d-4430-8fa1-681bdd305584",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l10_birdsonroof": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6f9df114-11a7-4fdf-82d6-463c3a9a6d5e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "22e363ac-ff5d-4430-8fa1-681bdd305584",
       "trimType": "auto",
       "trimThreshold": 1,

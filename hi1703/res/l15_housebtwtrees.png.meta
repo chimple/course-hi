@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "020649b7-5e8e-4760-a03c-cf7bbcaff57a",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l15_housebtwtrees": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "8e8941a7-4345-41fa-a267-92fd1a1e7de3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "020649b7-5e8e-4760-a03c-cf7bbcaff57a",
       "trimType": "auto",
       "trimThreshold": 1,

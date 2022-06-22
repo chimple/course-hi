@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "6ddee962-556a-43a5-a678-2047ecd122a7",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Thefrogsmakenoiseevery_night": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ba3efbfc-3d5b-4d0d-8190-2233e3d3c3f0",
+      "importer": "sprite-frame",
       "rawTextureUuid": "6ddee962-556a-43a5-a678-2047ecd122a7",
       "trimType": "auto",
       "trimThreshold": 1,

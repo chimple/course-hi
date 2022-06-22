@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9f9f63cd-6828-47b8-923e-3d2c9f4cb50b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Chrisisa_tallboy": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3eed5e55-f16c-4c8f-af77-ba5db4d43063",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9f9f63cd-6828-47b8-923e-3d2c9f4cb50b",
       "trimType": "auto",
       "trimThreshold": 1,

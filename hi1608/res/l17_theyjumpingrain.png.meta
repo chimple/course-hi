@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "5446ac82-5efe-493f-80a3-dbb0709438ad",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l17_theyjumpingrain": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "685599e9-fe79-4555-a642-a3d987f3750b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "5446ac82-5efe-493f-80a3-dbb0709438ad",
       "trimType": "auto",
       "trimThreshold": 1,

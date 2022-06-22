@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "7e48423d-414c-4550-83b5-b29cefc6a0b6",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "औषध": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ffd9ff6c-0403-40db-940c-0af354e68344",
+      "importer": "sprite-frame",
       "rawTextureUuid": "7e48423d-414c-4550-83b5-b29cefc6a0b6",
       "trimType": "auto",
       "trimThreshold": 1,

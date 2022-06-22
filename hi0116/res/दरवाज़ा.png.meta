@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "65658fdf-080f-483e-96ab-39daaad7436e",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "दरवाज़ा": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ed7745dc-3ebb-45cd-b8f7-84c5a4f78468",
+      "importer": "sprite-frame",
       "rawTextureUuid": "65658fdf-080f-483e-96ab-39daaad7436e",
       "trimType": "auto",
       "trimThreshold": 1,

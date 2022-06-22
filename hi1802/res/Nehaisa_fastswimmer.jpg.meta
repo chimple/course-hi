@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "fa4918ba-cd56-474e-af71-047999bfb6b7",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Nehaisa_fastswimmer": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "37e6b813-de55-4e91-94c8-1de19876b633",
+      "importer": "sprite-frame",
       "rawTextureUuid": "fa4918ba-cd56-474e-af71-047999bfb6b7",
       "trimType": "auto",
       "trimThreshold": 1,

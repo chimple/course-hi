@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "026dab5a-999e-4166-a47f-bf2361c84feb",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "The_lionisstrong": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "76bd1560-446a-45ea-9424-4aefbcad8adb",
+      "importer": "sprite-frame",
       "rawTextureUuid": "026dab5a-999e-4166-a47f-bf2361c84feb",
       "trimType": "auto",
       "trimThreshold": 1,

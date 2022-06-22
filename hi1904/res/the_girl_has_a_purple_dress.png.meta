@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "096cd6a1-a95b-46fb-99a1-a8cede690434",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "the_girl_has_a_purple_dress": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "158675ca-e2ca-41fe-bc31-11c921bbde07",
+      "importer": "sprite-frame",
       "rawTextureUuid": "096cd6a1-a95b-46fb-99a1-a8cede690434",
       "trimType": "auto",
       "trimThreshold": 1,

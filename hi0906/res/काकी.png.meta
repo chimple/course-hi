@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a04ed878-a35e-49bf-a03a-caee2a015158",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "काकी": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "73267057-ba9d-4869-83b2-087c0a3a6da9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a04ed878-a35e-49bf-a03a-caee2a015158",
       "trimType": "auto",
       "trimThreshold": 1,

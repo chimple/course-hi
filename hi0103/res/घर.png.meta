@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e78bd700-e3c6-4166-90b9-47cfc92975cc",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "घर": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "4d7ff4b9-d275-4164-9d5d-8d878bd4cb2c",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e78bd700-e3c6-4166-90b9-47cfc92975cc",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b6884ec9-5771-4347-8c73-4ec14ce083b8",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "गङ्गा": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6d4a95c9-f891-43a0-83e6-9aac840c8f3b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b6884ec9-5771-4347-8c73-4ec14ce083b8",
       "trimType": "auto",
       "trimThreshold": 1,

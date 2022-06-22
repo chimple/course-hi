@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "1553c405-358f-4167-b8d1-55eb332dd211",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l2_blueballoons": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "2ddb22dd-5c16-4599-9339-ab3c59bd7497",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1553c405-358f-4167-b8d1-55eb332dd211",
       "trimType": "auto",
       "trimThreshold": 1,

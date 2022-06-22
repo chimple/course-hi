@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f267f3cf-d3dc-484f-af8b-5f9c6973a41a",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Ranireadsmanybooks": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "83a390e1-de2f-481f-9ca2-04c1752023a5",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f267f3cf-d3dc-484f-af8b-5f9c6973a41a",
       "trimType": "auto",
       "trimThreshold": 1,

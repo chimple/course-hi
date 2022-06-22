@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "03c49b6d-4061-42f9-96f4-1ee1f4ebb56a",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "komalwalks": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b8dcef46-8a1f-4aec-872b-161efd48b7eb",
+      "importer": "sprite-frame",
       "rawTextureUuid": "03c49b6d-4061-42f9-96f4-1ee1f4ebb56a",
       "trimType": "auto",
       "trimThreshold": 1,

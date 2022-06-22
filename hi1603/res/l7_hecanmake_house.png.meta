@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "ad34499e-f832-4e8d-be47-d6035e11dca6",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l7_hecanmake_house": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ed31df5a-06e5-4136-a397-9cfbce938ce1",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ad34499e-f832-4e8d-be47-d6035e11dca6",
       "trimType": "auto",
       "trimThreshold": 1,

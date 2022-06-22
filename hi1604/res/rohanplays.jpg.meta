@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f10e343e-9c16-428d-9c3b-9dba1d5f576d",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "rohanplays": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "cf262f4e-e400-43fd-b278-a10a635f51ab",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f10e343e-9c16-428d-9c3b-9dba1d5f576d",
       "trimType": "auto",
       "trimThreshold": 1,

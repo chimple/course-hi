@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "04f82167-8760-4d5b-b596-a21df02c2c43",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "The_milkisdelicious": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3c65cea2-f233-4054-8009-8a4eda953d08",
+      "importer": "sprite-frame",
       "rawTextureUuid": "04f82167-8760-4d5b-b596-a21df02c2c43",
       "trimType": "auto",
       "trimThreshold": 1,

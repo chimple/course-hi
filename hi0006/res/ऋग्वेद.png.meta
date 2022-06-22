@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "0d38b41e-2495-4894-a781-c9cfbe5b16bd",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ऋग्वेद": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "28567ae3-7676-48e5-9a96-e90a4b0b8ea0",
+      "importer": "sprite-frame",
       "rawTextureUuid": "0d38b41e-2495-4894-a781-c9cfbe5b16bd",
       "trimType": "auto",
       "trimThreshold": 1,

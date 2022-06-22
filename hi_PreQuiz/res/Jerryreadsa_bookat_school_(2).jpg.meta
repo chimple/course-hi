@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "77a818e4-0f1f-4da2-a88d-3875c5b6b258",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Jerryreadsa_bookat_school_(2)": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "a034cb37-adf3-4ce1-99ee-a2079aed354a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "77a818e4-0f1f-4da2-a88d-3875c5b6b258",
       "trimType": "auto",
       "trimThreshold": 1,

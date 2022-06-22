@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "498ac5fe-d72b-45fa-99dd-fb31010f9f71",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "चावल": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "23c184f8-fb1b-4919-bf25-e3c7955f07aa",
+      "importer": "sprite-frame",
       "rawTextureUuid": "498ac5fe-d72b-45fa-99dd-fb31010f9f71",
       "trimType": "auto",
       "trimThreshold": 1,

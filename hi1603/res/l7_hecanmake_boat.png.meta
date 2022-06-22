@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b2831588-bfbe-47f6-bd01-9df9909585f5",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l7_hecanmake_boat": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "300a49b6-173c-4687-92c7-ea23f6784694",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b2831588-bfbe-47f6-bd01-9df9909585f5",
       "trimType": "auto",
       "trimThreshold": 1,
