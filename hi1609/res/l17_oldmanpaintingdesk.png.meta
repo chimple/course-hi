@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d0ff2699-b2bd-4899-a8fe-b001ac2edac2",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l17_oldmanpaintingdesk": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "dde80640-aaed-4fb6-88ce-74a6f1dd35a9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d0ff2699-b2bd-4899-a8fe-b001ac2edac2",
       "trimType": "auto",
       "trimThreshold": 1,

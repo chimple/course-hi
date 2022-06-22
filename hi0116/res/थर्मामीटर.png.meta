@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e63d9440-f81e-480b-a606-a68639344215",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "थर्मामीटर": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "8643b144-3ba2-409c-a17a-c7c54d5d28f4",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e63d9440-f81e-480b-a606-a68639344215",
       "trimType": "auto",
       "trimThreshold": 1,

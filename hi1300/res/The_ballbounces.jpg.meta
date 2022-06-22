@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "941fe9fd-4eb7-47b3-bc7f-c36a0bbff373",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "The_ballbounces": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0760ae0b-8d23-45b3-a303-d09c16f49e77",
+      "importer": "sprite-frame",
       "rawTextureUuid": "941fe9fd-4eb7-47b3-bc7f-c36a0bbff373",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "361d4aea-4779-4af3-8676-505edd7f3b2a",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l2_brownbear": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "dae40515-f0b1-4d5a-a248-f2250c3897b3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "361d4aea-4779-4af3-8676-505edd7f3b2a",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4f0ced3a-8d03-4c2b-b57a-05a200bdb217",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "टमाटर": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c050af21-b1f7-4376-8351-5fcc17e78592",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4f0ced3a-8d03-4c2b-b57a-05a200bdb217",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "1a2f7621-29f8-4539-b04f-6a9454c041ca",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "किसान": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3a76b082-0dd2-42a5-92c8-3e27bca6ee09",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1a2f7621-29f8-4539-b04f-6a9454c041ca",
       "trimType": "auto",
       "trimThreshold": 1,

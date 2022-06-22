@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "0db24700-e107-4b9f-941b-6fe13978dfce",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Itisa_stronglion": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e0dde173-f187-4c4c-9034-fed4831b7486",
+      "importer": "sprite-frame",
       "rawTextureUuid": "0db24700-e107-4b9f-941b-6fe13978dfce",
       "trimType": "auto",
       "trimThreshold": 1,

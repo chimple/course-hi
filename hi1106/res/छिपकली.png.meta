@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "3c97bd56-2087-449c-a32e-d1c92f7bd61c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "छिपकली": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "5ce12fef-ff42-4dc5-b102-1de2cc66c740",
+      "importer": "sprite-frame",
       "rawTextureUuid": "3c97bd56-2087-449c-a32e-d1c92f7bd61c",
       "trimType": "auto",
       "trimThreshold": 1,

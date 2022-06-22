@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f88fcea5-889c-4a47-ae5e-525e6f0bd78b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Itisa_largeairplane": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "a318e4b3-0387-4fcd-b66f-57397609ea87",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f88fcea5-889c-4a47-ae5e-525e6f0bd78b",
       "trimType": "auto",
       "trimThreshold": 1,

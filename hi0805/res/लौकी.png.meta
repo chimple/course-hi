@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "574132a7-b2b4-48a9-a30c-354cfed6f85e",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "लौकी": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "7eabdc6b-4e15-4dcd-9232-9b6ccc556342",
+      "importer": "sprite-frame",
       "rawTextureUuid": "574132a7-b2b4-48a9-a30c-354cfed6f85e",
       "trimType": "auto",
       "trimThreshold": 1,

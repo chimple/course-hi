@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a4f2231e-cadd-4e7a-9f22-2035e9f7bed4",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l17_shehelpmomcook": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "305c19fe-bd43-4f03-95a6-006f8cc3dbc2",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a4f2231e-cadd-4e7a-9f22-2035e9f7bed4",
       "trimType": "auto",
       "trimThreshold": 1,

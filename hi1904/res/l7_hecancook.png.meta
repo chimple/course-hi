@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "29d01a9d-f311-4950-b050-2e7c9e0e0915",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l7_hecancook": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3d53b724-ef1b-4e32-8f65-fbd3ead80aa3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "29d01a9d-f311-4950-b050-2e7c9e0e0915",
       "trimType": "auto",
       "trimThreshold": 1,

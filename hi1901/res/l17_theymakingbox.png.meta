@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f2d64554-561c-4b06-98a1-d26f2b40295e",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l17_theymakingbox": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "5fb8c3bd-f088-4760-95ab-82fef5bbefdb",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f2d64554-561c-4b06-98a1-d26f2b40295e",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9eba9881-2420-4daf-95bf-27404dd9b1b5",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Thesunshinesbrightly": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "4611f37b-164c-4b87-b372-25a783711a88",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9eba9881-2420-4daf-95bf-27404dd9b1b5",
       "trimType": "auto",
       "trimThreshold": 1,

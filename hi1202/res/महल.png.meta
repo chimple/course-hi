@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "db6e1391-ac6a-4011-8371-bde2e727c87d",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "महल": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6e9b08c9-4e81-4aa4-a792-f34aec60bab7",
+      "importer": "sprite-frame",
       "rawTextureUuid": "db6e1391-ac6a-4011-8371-bde2e727c87d",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "caaeb834-65c0-420d-a36b-18582257734f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "The_treegrowsoranges": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "8fda82ad-f648-48b7-959c-03072c19b993",
+      "importer": "sprite-frame",
       "rawTextureUuid": "caaeb834-65c0-420d-a36b-18582257734f",
       "trimType": "auto",
       "trimThreshold": 1,

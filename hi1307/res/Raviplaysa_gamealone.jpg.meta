@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "cd345475-b359-46d4-9859-40e3686194c5",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Raviplaysa_gamealone": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "379e18bd-8f3f-44b0-a430-636064ddbb0d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "cd345475-b359-46d4-9859-40e3686194c5",
       "trimType": "auto",
       "trimThreshold": 1,

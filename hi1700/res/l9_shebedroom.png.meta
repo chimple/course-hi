@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "55a0e525-3ba5-4458-b9cf-f15965fe6f8d",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l9_shebedroom": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "22ebbba7-ac11-40cb-96f3-f6f9ec9fad08",
+      "importer": "sprite-frame",
       "rawTextureUuid": "55a0e525-3ba5-4458-b9cf-f15965fe6f8d",
       "trimType": "auto",
       "trimThreshold": 1,

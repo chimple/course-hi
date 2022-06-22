@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "00dbb637-5f28-46ab-8894-3845f45940e0",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l15_boystandbtwchairs": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "548b6efe-80eb-4876-ae24-b64b55fbd651",
+      "importer": "sprite-frame",
       "rawTextureUuid": "00dbb637-5f28-46ab-8894-3845f45940e0",
       "trimType": "auto",
       "trimThreshold": 1,

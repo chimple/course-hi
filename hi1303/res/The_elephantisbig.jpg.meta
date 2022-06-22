@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "cbf43435-e4bb-4f19-b2f7-cf517c4e7689",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "The_elephantisbig": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "badb96e9-0ace-4947-94e5-2c8cd03fa7ad",
+      "importer": "sprite-frame",
       "rawTextureUuid": "cbf43435-e4bb-4f19-b2f7-cf517c4e7689",
       "trimType": "auto",
       "trimThreshold": 1,

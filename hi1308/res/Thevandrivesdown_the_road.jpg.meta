@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "cfdd856e-28f6-4527-a91e-1a39ae98b192",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Thevandrivesdown_the_road": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "8d1e554f-53bb-4fda-a44b-f3bd966c64b6",
+      "importer": "sprite-frame",
       "rawTextureUuid": "cfdd856e-28f6-4527-a91e-1a39ae98b192",
       "trimType": "auto",
       "trimThreshold": 1,

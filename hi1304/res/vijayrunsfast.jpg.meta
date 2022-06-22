@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "ecdff62c-b883-4655-a89a-78d7320e7e0b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "vijayrunsfast": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "43a68a8f-a41c-4ff6-bb4d-1ae8f2346c1d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ecdff62c-b883-4655-a89a-78d7320e7e0b",
       "trimType": "auto",
       "trimThreshold": 1,

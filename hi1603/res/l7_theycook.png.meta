@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "3d4c54c8-a396-4452-b91c-1cdc90922974",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l7_theycook": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "197fdf87-07d6-407e-ba5b-f16cdb72327c",
+      "importer": "sprite-frame",
       "rawTextureUuid": "3d4c54c8-a396-4452-b91c-1cdc90922974",
       "trimType": "auto",
       "trimThreshold": 1,

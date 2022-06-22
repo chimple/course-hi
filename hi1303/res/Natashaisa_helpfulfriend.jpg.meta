@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "80c65b46-efc6-4795-ad2e-24bb893814f9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Natashaisa_helpfulfriend": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e468de13-8304-4ef8-9fbb-67348e77e2df",
+      "importer": "sprite-frame",
       "rawTextureUuid": "80c65b46-efc6-4795-ad2e-24bb893814f9",
       "trimType": "auto",
       "trimThreshold": 1,

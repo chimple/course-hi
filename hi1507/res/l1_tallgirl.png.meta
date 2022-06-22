@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "156043a0-75f9-46f4-b039-0397105c0288",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l1_tallgirl": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e2354389-111f-44d0-9734-309d28c84861",
+      "importer": "sprite-frame",
       "rawTextureUuid": "156043a0-75f9-46f4-b039-0397105c0288",
       "trimType": "auto",
       "trimThreshold": 1,

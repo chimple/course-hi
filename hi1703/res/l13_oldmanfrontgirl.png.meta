@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "07293595-5266-4c39-baab-eb78d07a3226",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l13_oldmanfrontgirl": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "be0cef99-589e-4292-94ce-7136abbe78f8",
+      "importer": "sprite-frame",
       "rawTextureUuid": "07293595-5266-4c39-baab-eb78d07a3226",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "cfb0b36e-bf0c-4175-95a7-2303c21eaf12",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "The_cowmakesmilk": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "bfe2dccc-7f59-4d47-810c-bd12ce6b5611",
+      "importer": "sprite-frame",
       "rawTextureUuid": "cfb0b36e-bf0c-4175-95a7-2303c21eaf12",
       "trimType": "auto",
       "trimThreshold": 1,

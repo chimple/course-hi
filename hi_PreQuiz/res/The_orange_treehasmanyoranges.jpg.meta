@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "cfe79b7d-a6f5-4b41-bfcb-894c898dd019",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "The_orange_treehasmanyoranges": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "fe0a0580-eebc-4bbc-ae6c-12534db3ab86",
+      "importer": "sprite-frame",
       "rawTextureUuid": "cfe79b7d-a6f5-4b41-bfcb-894c898dd019",
       "trimType": "auto",
       "trimThreshold": 1,

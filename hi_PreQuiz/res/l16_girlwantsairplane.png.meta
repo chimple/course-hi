@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a4c68d9d-dea6-49d4-930e-fbccd3cafb1e",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l16_girlwantsairplane": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c565cb8f-1ed0-40a3-bf13-871b7b5cec0f",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a4c68d9d-dea6-49d4-930e-fbccd3cafb1e",
       "trimType": "auto",
       "trimThreshold": 1,

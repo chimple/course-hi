@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "58b1ef8b-31f9-4e10-8dbf-d8a6b8b9f3d2",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l17_oldmanpaintingchair": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "5678d0b3-5a03-4e00-a9ad-7e42a45f2ad5",
+      "importer": "sprite-frame",
       "rawTextureUuid": "58b1ef8b-31f9-4e10-8dbf-d8a6b8b9f3d2",
       "trimType": "auto",
       "trimThreshold": 1,

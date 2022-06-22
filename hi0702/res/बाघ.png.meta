@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "ac5d6912-6966-4bb9-9eb2-c2aaaa3666c3",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "बाघ": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "1e0d5d06-6687-4e76-aa21-3df0cedf7adb",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ac5d6912-6966-4bb9-9eb2-c2aaaa3666c3",
       "trimType": "auto",
       "trimThreshold": 1,

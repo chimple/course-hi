@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "2cf3bf97-a7c2-4e6e-92ab-6eb556298a7b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l17_youngmanpaintingdesk": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "534bff3c-c9a0-4251-86f6-0d4f49028172",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2cf3bf97-a7c2-4e6e-92ab-6eb556298a7b",
       "trimType": "auto",
       "trimThreshold": 1,

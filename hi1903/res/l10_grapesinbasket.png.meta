@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "db6eca01-620c-427a-b6e2-b26e0f78dccf",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l10_grapesinbasket": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "8d6dc4ab-26da-4de7-b1d7-9e4c2d5fe93a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "db6eca01-620c-427a-b6e2-b26e0f78dccf",
       "trimType": "auto",
       "trimThreshold": 1,

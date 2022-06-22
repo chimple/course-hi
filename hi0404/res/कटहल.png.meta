@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f37be31d-290d-4ac5-98bf-f20c25a0b100",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "कटहल": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "778da891-e7f9-4a57-92e7-3fd2fbaf3bb4",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f37be31d-290d-4ac5-98bf-f20c25a0b100",
       "trimType": "auto",
       "trimThreshold": 1,

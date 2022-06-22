@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "abd04950-e38e-4c5e-be66-e2b74b992d93",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "The_crocodileswims": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "72eaa297-79ef-4311-97f3-ec075787de15",
+      "importer": "sprite-frame",
       "rawTextureUuid": "abd04950-e38e-4c5e-be66-e2b74b992d93",
       "trimType": "auto",
       "trimThreshold": 1,

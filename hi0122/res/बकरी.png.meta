@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "7c640725-fb2c-4064-ab73-66b47a920965",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "बकरी": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6be431bd-b4ac-450d-a2c1-056b08de8973",
+      "importer": "sprite-frame",
       "rawTextureUuid": "7c640725-fb2c-4064-ab73-66b47a920965",
       "trimType": "auto",
       "trimThreshold": 1,

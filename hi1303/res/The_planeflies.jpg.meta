@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "2e7db390-9209-44f8-aa28-de70c4c6a7f8",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "The_planeflies": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "9a05412d-c386-4640-8a23-14c3896ee193",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2e7db390-9209-44f8-aa28-de70c4c6a7f8",
       "trimType": "auto",
       "trimThreshold": 1,
