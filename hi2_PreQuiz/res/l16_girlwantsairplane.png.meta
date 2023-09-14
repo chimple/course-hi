@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c6294e28-e9c9-4ac4-9cbb-474fabfa7495",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "l16_girlwantsairplane": {
+      "ver": "1.0.6",
+      "uuid": "a56b58f4-1fea-4d9e-b20b-7e86ef0a1ba3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c6294e28-e9c9-4ac4-9cbb-474fabfa7495",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
