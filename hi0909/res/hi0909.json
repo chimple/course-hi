@@ -13,6 +13,41 @@
       "true "
     ],
     [
+      "phonictractor",
+      "1",
+      "Description",
+      "5",
+      "कृपा",
+      "कृपा.mp3",
+      "कृ",
+      "कृ.mp3",
+      "पा",
+      "पा.mp3"
+    ],
+    [
+      "phonictractor",
+      "1",
+      "Description",
+      "5",
+      "कृति",
+      "कृति.mp3",
+      "कृ",
+      "कृ.mp3",
+      "ति",
+      "ति.mp3"
+    ],
+    [
+      "openwindow",
+      "1",
+      "Description",
+      "LEGIT",
+      "कृ,मि",
+      "कृमि.png",
+      "कुत्ता.png",
+      "कृमि.mp3",
+      "कृ,मि"
+    ],
+    [
       "bubbletype",
       "1",
       "Description",

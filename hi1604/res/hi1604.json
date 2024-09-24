@@ -13,8 +13,8 @@
       "jumpsentence",
       "1",
       "Description",
-      "आप लंबे [है]।",
-      "आप_लंबे_है.mp3",
+      "आप लंबे [हैं]।",
+      "आप_लंबे_हैं.mp3",
       "n",
       "unlocked"
     ],
@@ -64,7 +64,7 @@
       "createsentence",
       "1",
       "Description",
-      "रोहन/खेलता/है",
+      "रोहन/खेलता/है।",
       "",
       "rohanplays.jpg",
       "रोहन_खेलता_है.mp3"
@@ -73,7 +73,7 @@
       "createsentence",
       "1",
       "Description",
-      "मारिया/तैरती/है",
+      "मारिया/तैरती/है।",
       "",
       "Weswamyesterday.jpg",
       "मारिया_तैरती_है.mp3"
