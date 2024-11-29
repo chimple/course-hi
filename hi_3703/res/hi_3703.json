@@ -1,0 +1,115 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "हरा/पत्त",
+      "",
+      "leaf.png",
+      "A_green_leaf.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "नीला/आकाश",
+      "",
+      "sky.png",
+      "The_blue_sky.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "लाल/स्ट्रॉबेरी",
+      "",
+      "strawberry.png",
+      "A_red_strawberry.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "नारंगी/गाजर",
+      "",
+      "carrot.png",
+      "An_orange_carrot.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "बैंगनी/अंगूरों/का/एक/गुच्छा",
+      "",
+      "grapes.png",
+      "A_bunch_of_purple_grapes.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "काला/बल्ला",
+      "",
+      "bat.png",
+      "A_black_bat.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "सफेद/बर्फ",
+      "",
+      "snow.png",
+      "The_white_snow.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "भूरे/रंग/की/लकड़ी",
+      "",
+      "wood.png",
+      "The_brown_wood.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "हरा पत्ता.",
+      "हरा पत्ता.",
+      "नारंगी गाजर.",
+      "सफेद बर्फ।",
+      "leaf.png",
+      "",
+      "A_green_leaf.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "नारंगी गाजर.",
+      "सफेद बर्फ।",
+      "हरी पत्ती।",
+      "नारंगी गाजर.",
+      "carrot.png",
+      "",
+      "An_orange_carrot.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "सफेद बर्फ।",
+      "नारंगी गाजर.",
+      "सफेद बर्फ।",
+      "हरी पत्ती।",
+      "snow.png",
+      "",
+      "The_white_snow.mp3"
+    ]
+  ]
+}

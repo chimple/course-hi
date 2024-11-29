@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "936fbd58-9ca7-4a83-ba0c-f372d8efa437",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 399,
+  "platformSettings": {},
+  "subMetas": {
+    "caterpillar_rope": {
+      "ver": "1.0.4",
+      "uuid": "98af3d00-2427-4b8c-8001-c7573e522222",
+      "rawTextureUuid": "936fbd58-9ca7-4a83-ba0c-f372d8efa437",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 399,
+      "rawWidth": 512,
+      "rawHeight": 399,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

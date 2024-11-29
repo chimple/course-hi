@@ -1,0 +1,98 @@
+{
+  "rows": [
+    [
+      "picturemeaning",
+      "1",
+      "Description",
+      "S",
+      "सुबह",
+      "morning.png",
+      "morning.mp3",
+      "दोपहर",
+      "noon.png",
+      "noon.mp3",
+      "रात",
+      "night.png",
+      "night.mp3"
+    ],
+    [
+      "picturemeaning",
+      "1",
+      "Description",
+      "P",
+      "हम सुबह जल्दी उठते हैं।",
+      "wake_up.png",
+      "We_wake_up_early_in_the_morning.mp3",
+      "हम रात को सोते हैं",
+      "sleep.png",
+      "we_sleep_at_night.mp3",
+      "हम दिन में स्कूल जाते हैं।",
+      "school.png",
+      "we_go_to_school_during_day.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "सुबह/सूरज/उगता/है।",
+      "",
+      "morning.png",
+      "The_sun_rises_in_the_morning.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "शाम/को/सूरज/डूबता/है।",
+      "",
+      "evening.png",
+      "the_sun_sets_in_the_evening.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "हम/सुबह/नाश्ता/करते/हैं।",
+      "",
+      "breakfast.png",
+      "we_eat_breakfast_in_the_morning.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "सुबह",
+      "दोपहर",
+      "सुबह",
+      "रात",
+      "morning.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "breakfast.png",
+      "school.png",
+      "breakfast.png",
+      "sleep.png",
+      "",
+      "",
+      "we_eat_breakfast_in_the_morning.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "उठते ",
+      "उठते ",
+      "खेल",
+      "स्कूल जाना",
+      "",
+      "हम सुबह जल्दी ______ हैं।",
+      "We_wake_up_early_in_the_morning.mp3"
+    ]
+  ]
+}

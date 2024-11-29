@@ -1,0 +1,115 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "सात/सेब",
+      "छह",
+      "seven_apples.png",
+      "seven_apples.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "दो/लड़कियां",
+      "तीन",
+      "two_girls.png",
+      "two_girls.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "छह/बिल्लियाँ",
+      "पाँच",
+      "six_cats.png",
+      "six_cats.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "आठ/कौवे",
+      "सात",
+      "eight_crows.png",
+      "eight_crows.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "एक/गाय",
+      "दो",
+      "one_cow.png",
+      "one_cow.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "नौ/कलम",
+      "आठ",
+      "nine_pens.png",
+      "nine_pens.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "चार/इरेज़र",
+      "पाँच",
+      "four_erasers.png",
+      "four_erasers.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "तीन किताबें",
+      "चार",
+      "three_books.png",
+      "three_books.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "दो लड़कियां।",
+      "एक लड़की.",
+      "तीन लड़कियां।",
+      "दो लड़कियां।",
+      "two_girls.png",
+      "",
+      "two_girls.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "आठ कौवे|",
+      "सात कौवे|",
+      "आठ कौवे|",
+      "नौ कौवे|",
+      "eight_crows.png",
+      "",
+      "eight_crows.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "चार इरेज़र|",
+      "चार इरेज़र|",
+      "तीन इरेज़र|",
+      "पांच इरेज़र|",
+      "four_erasers.png",
+      "",
+      "four_erasers.mp3"
+    ]
+  ]
+}

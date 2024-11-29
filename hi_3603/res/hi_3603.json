@@ -1,0 +1,98 @@
+{
+  "rows": [
+    [
+      "fillblank",
+      "1",
+      "Description",
+      "[12] इंच एक फुट बनाता है।",
+      "12_inches_make_a_foot.mp3",
+      "10",
+      "13",
+      "20",
+      "10"
+    ],
+    [
+      "fillblank",
+      "1",
+      "Description",
+      "100 सेंटीमीटर एक [मीटर] के बराबर होता है।",
+      "100_centimeter_is_equal_to _ meter.mp3",
+      "इंच",
+      "फुट",
+      "किलोमीटर",
+      "10"
+    ],
+    [
+      "fillblank",
+      "1",
+      "Description",
+      "चीनी को [किलोग्राम] में मापा जाता है।",
+      "Sugar_is_measured_in_kilogram.mp3",
+      "लीटर",
+      "इंच",
+      "मीटर",
+      "10"
+    ],
+    [
+      "fillblank",
+      "1",
+      "Description",
+      "दूध को [लीटर] में मापा जाता है।",
+      "Milk_is_measured_in_litres.mp3",
+      "इंच",
+      "गज",
+      "किलोमीटर",
+      "10"
+    ],
+    [
+      "fillblank",
+      "1",
+      "Description",
+      "शहरों के बीच की दूरी [किलोमीटर] में मापी जाती है",
+      "Distance_between_cities_is_measured_in_kilometer.mp3",
+      "फीट",
+      "गजों",
+      "सेंटीमीटर",
+      "10"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_sentence",
+      "12 इंच एक फुट बनाते हैं।",
+      "10 इंच एक फुट बनाते हैं।",
+      "13 इंच एक फुट बनाते हैं।",
+      "12 इंच एक फुट बनाते हैं।",
+      "",
+      "",
+      "12_inches_make_a_foot.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "चीनी को किलोग्राम में मापा जाता है।",
+      "चीनी को किलोग्राम में मापा जाता है।",
+      "चीनी को गज में मापा जाता है।",
+      "चीनी को लीटर में मापा जाता है।",
+      "",
+      "choose the correct sentence",
+      "Choose_the_correct_sentence.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "लीटर",
+      "किलोग्राम",
+      "लीटर",
+      "मीटर",
+      "",
+      "दूध को ________ में मापा जाता है।",
+      "Milk_is_measured_in_litres.mp3"
+    ]
+  ]
+}

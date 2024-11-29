@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ae1c1108-30b6-4b4c-b677-1e9a416c9a21",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "I_wrote_my_exam_yesterday": {
+      "ver": "1.0.4",
+      "uuid": "8fc4b407-2391-4386-af46-571199bd0d6b",
+      "rawTextureUuid": "ae1c1108-30b6-4b4c-b677-1e9a416c9a21",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
