@@ -1,0 +1,98 @@
+{
+  "rows": [
+    [
+      "picturemeaning",
+      "1",
+      "Description",
+      "S",
+      "हम दिन में स्कूल जाते हैं।",
+      "school_day.png",
+      "we_go_to_school_during_day.mp3",
+      "हम शाम को पार्क में खेलते हैं।",
+      "park_evening.png",
+      "We_play_in_park_in_evening.mp3",
+      "हम रात में तारे देखते हैं।",
+      "stars.png",
+      "we_watch_stars_at_night.mp3"
+    ],
+    [
+      "picturemeaning",
+      "1",
+      "Description",
+      "S",
+      "सुबह/शाम को मेरी परछाई लंबी होती है",
+      "shadow_morning.png",
+      "My_shadow_is_tall_in_the_morning.mp3",
+      "दोपहर को मेरी परछाई छोटी होती है",
+      "shadow_noon.png",
+      "my_shadow_is_short_at_noon.mp3",
+      "रात को मेरी कोई परछाई नहीं होती",
+      "night_shadow.png",
+      "I_have_no_shadow_at_night.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "हम/दोपहर/में/खाना/खाते/हैं।",
+      "",
+      "lunch.png",
+      "we_eat_lunch_in_the_afternoon.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "उन्होंने/रात/में/अपना/खाना/खा/लिया।",
+      "",
+      "dinner.png",
+      "They_had_their_dinner_at_night.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "दोपहर/को/सूरज/चमकता/है",
+      "",
+      "noon.png",
+      "The_sun_shines_bright_at_noon.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "सुबह की परछाई",
+      "दोपहर की परछाई",
+      "रात की परछाई",
+      "सुबह की परछाई",
+      "shadow_morning.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_image",
+      "stars.png",
+      "stars.png",
+      "park_evening.png",
+      "school_day.png",
+      "",
+      "",
+      "we_watch_stars_at_night.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "खाना",
+      "नाश्ता",
+      "खाना",
+      "रात का खाना",
+      "",
+      "हम दोपहर में ______ खाते हैं।",
+      "we_eat_lunch_in_the_afternoon.mp3"
+    ]
+  ]
+}

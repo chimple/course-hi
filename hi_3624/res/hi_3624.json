@@ -1,0 +1,115 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "हाथी/सबसे/भारी/है.",
+      "शेर",
+      "heaviest_elephant.png",
+      "The_elephant_is_the_heaviest.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "कार/सबसे/हल्की/है.",
+      "बस",
+      "lightest_car.png",
+      "The_car_is_the_lightest.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "लड़का/सबसे/हल्का/है.",
+      "महिला",
+      "boy_lightest.png",
+      "The_boy_is_the_lightest.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "तरबूज़/सबसे/भारी/होत/है",
+      "आम",
+      "heaviestwatermelon.png",
+      "The_watermelon_is_the_heaviest.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "पत्थर/सबसे/भारी/है",
+      "पेंसिल",
+      "stoneheaviest.png",
+      "The_stone_is_the_heaviest.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "बकरी/सबसे/हल्की/होती/है",
+      "गाय",
+      "lightest_goat.png",
+      "The_goat_is_the_lighest.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "किताब/सबसे/भारी/है",
+      "कलम",
+      "bookheaviest.png",
+      "The_book_is_the_heaviest.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "व्हेल/सबसे/भारी/होती/है.",
+      "शार्क",
+      "whale_heaviest.png",
+      "The_whale_is_the_heaviest.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "कार सबसे हल्की है.",
+      "व्हेल सबसे भारी होती है.",
+      "तरबूज़ सबसे भारी होता है.",
+      "कार सबसे हल्की है.",
+      "lightest_car.png",
+      "",
+      "The_car_is_the_lightest.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "तरबूज़ सबसे भारी होता है.",
+      "तरबूज़ सबसे भारी होता है.",
+      "कार सबसे हल्की है.",
+      "व्हेल सबसे भारी होती है.",
+      "heaviestwatermelon.png",
+      "",
+      "The_watermelon_is_the_heaviest.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "व्हेल सबसे भारी होती है|",
+      "व्हेल सबसे भारी होती है|",
+      "वह आदमी तीनों में सबसे उम्रदराज़ है।",
+      "तरबूज़ सबसे भारी होता है|",
+      "whale_heaviest.png",
+      "",
+      "The_whale_is_the_heaviest.mp3"
+    ]
+  ]
+}

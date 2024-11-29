@@ -1,0 +1,79 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "शुभ/प्रभात।",
+      "",
+      "8am_clock.png",
+      "Good_morning.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "शुभ/रात्रि।",
+      "",
+      "9pm_clock.png",
+      "Good_night.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "शुभ/दोपहर|",
+      "",
+      "1pm_clock.png",
+      "Good_afternoon.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "शुभ/संध्या",
+      "",
+      "6pm_clock.png",
+      "Good_evening.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "शुभ प्रभात।",
+      "शुभ संध्या",
+      "शुभ अपराह्न।",
+      "शुभ प्रभात।",
+      "8am_clock.png",
+      "",
+      "Good_morning.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "शुभ रात्रि।",
+      "शुभ प्रभात।",
+      "शुभ रात्रि।",
+      "शुभ अपराह्न।",
+      "9pm_clock.png",
+      "",
+      "Good_night.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "शुभ दोपहर|",
+      "शुभ दोपहर|",
+      "शुभ रात्रि।",
+      "शुभ प्रभात।",
+      "1pm_clock.png",
+      "",
+      "Good_afternoon.mp3"
+    ]
+  ]
+}

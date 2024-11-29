@@ -1,0 +1,115 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "अपनी/चीज़ें/अलग/रखें।",
+      "",
+      "put_away_your_things.png",
+      "put_away_your_things.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "मदद/आपके/माता-पिता।",
+      "",
+      "help_your_parents.png",
+      "help_your_parents.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "अपना/खाना/खाएँ।",
+      "",
+      "have_your_dinner.png",
+      "have_your_dinner.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "अपना/विस्तर/बनाएं।",
+      "",
+      "make_your_bed.png",
+      "make_your_bed.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "अपने/दाँतों/को/बरश/करें।",
+      "",
+      "brush_your_teeth.png",
+      "brush_your_teeth.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "अपने/परिवार को/शुभरात्रि/कहें।",
+      "",
+      "say_goodnight_to_your_family.png",
+      "say_goodnight_to_your_family.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "कहो/अपनी/प्रार्थना.",
+      "",
+      "say_your_prayer.png",
+      "say_your_prayer.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "सोने/जाओ।",
+      "",
+      "go_to_bed.png",
+      "go_to_bed.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "मदद",
+      "मदद",
+      "मुश्किल",
+      "अनदेखा",
+      "",
+      "अपने_माता-पिता की _____ करें",
+      "help_your_parents.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "अपना विस्तर बनाएं।",
+      "अपना बिस्तर मत बनाओ.",
+      "अपना विस्तर बनाएं।",
+      "अपना बिस्तर ठीक किये बिना सोयें।",
+      "make_your_bed.png",
+      "",
+      "make_your_bed.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "soundonly_sentence",
+      "अपनी प्रार्थना कहो.",
+      "अपनी प्रार्थना कहो.",
+      "प्रार्थना आपका कहना.",
+      "अपनी प्रार्थना कहो.",
+      "",
+      "",
+      "say_your_prayer.mp3"
+    ]
+  ]
+}

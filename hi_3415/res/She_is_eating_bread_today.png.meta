@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0e4a37e7-afe7-4279-a56f-b40e3bb3bdf4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "She_is_eating_bread_today": {
+      "ver": "1.0.4",
+      "uuid": "6dde55f8-805d-4d9c-bd50-d1099006da3c",
+      "rawTextureUuid": "0e4a37e7-afe7-4279-a56f-b40e3bb3bdf4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

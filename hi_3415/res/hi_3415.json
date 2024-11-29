@@ -1,0 +1,115 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "मैंने/कल/अपनी/परीक्षा/लिखी।",
+      "",
+      "I_wrote_my_exam_yesterday.png",
+      "I_wrote_my_exam_yesterday.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "मैं/आज/खेलता/हूं.",
+      "",
+      "I_play_today.png",
+      "I_play_today.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "कल/एक/छुट्टी/है।",
+      "",
+      "Tomorrow_is_a_holiday.png",
+      "Tomorrow_is_a_holiday.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "कल/मैं/गिर/गया/था.",
+      "",
+      "Yesterday_I_fell_down.png",
+      "Yesterday_I_fell_down.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "कल/बारिश/होगी",
+      "",
+      "It_is_going_to_rain_tomorrow.png",
+      "It_is_going_to_rain_tomorrow.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "वह/आज/रोटी/खा/रही/है.",
+      "",
+      "She_is_eating_bread_today.png",
+      "She_is_eating_bread_today.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "हम/कल/पढ़ेंगे.",
+      "",
+      "We_will_study_tomorrow.png",
+      "We_will_study_tomorrow.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "हमने/कल/खेला/था",
+      "",
+      "We_played_yesterday.png",
+      "We_played_yesterday.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "खेलता",
+      "खेलता",
+      "हमने खेला।",
+      "समतल करना",
+      "",
+      "मैं आज _____ हूं",
+      "I_play_today.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "गिर",
+      "गिरना",
+      "गिर",
+      "गिर रहा है",
+      "",
+      "कल मैं ____ गया था.",
+      "Yesterday_I_fell_down.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "खेला",
+      "हमने खेला।",
+      "खेलें",
+      "खेला",
+      "",
+      "हमने कल ______ था।",
+      "We_played_yesterday.mp3"
+    ]
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "आधा/बोरा/चावल.",
+      "भरा हुआ",
+      "Half_bag_of_rice.png",
+      "Half_bag_of_rice.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "आधा/गिलास/दूध.",
+      "भरा हुआ",
+      "Half_glass_milk.png",
+      "Half_glass_milk.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "आधा/प्लेट/फल",
+      "भरा हुआ",
+      "Half_plate_fruits.png",
+      "Half_plate_fruits.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "आधी/बाल्टी/पानी",
+      "भरा हुआ",
+      "Half_bucket_water.png",
+      "Half_bucket_water.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "जार/आधा/टॉफ़ी/से/भरा/हुआ/है",
+      "भरा हुआ",
+      "Jar_half_full_of_candies.png",
+      "Jar_half_full_of_candies.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "टब/पानी/से/आधा/भरा/हुआ",
+      "भरा हुआ",
+      "Tub_half_filled_with_water.png",
+      "Tub_half_filled_with_water.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "आधा बोरा चावल|",
+      "आधा बोरा चावल|",
+      "हाफ प्लेट फल|",
+      "जार आधा कैंडी से भरा हुआ|",
+      "Half_bag_of_rice.png",
+      "",
+      "Half_bag_of_rice.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "आधा प्लेट फल",
+      "जार आधा कैंडी से भरा हुआ।",
+      "आधा बोरा चावल.",
+      "आधा प्लेट फल",
+      "Half_plate_fruits.png",
+      "",
+      "Half_plate_fruits.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "जार आधा टॉफ़ी से भरा हुआ है",
+      "हाफ प्लेट फल|",
+      "जार आधा टॉफ़ी से भरा हुआ है",
+      "आधा बोरा चावल.",
+      "Jar_half_full_of_candies.png",
+      "",
+      "Jar_half_full_of_candies.mp3"
+    ]
+  ]
+}

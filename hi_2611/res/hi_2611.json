@@ -1,0 +1,115 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "सीखें/अपना/सबक।",
+      "",
+      "learn_your_lessons.png",
+      "learn_your_lessons.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "अपने/दोस्तों के साथ/खेलें।",
+      "",
+      "play_with_your_friends.png",
+      "play_with_your_friends.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "सड़क/पर/सुरक्षित/रहें।",
+      "",
+      "be_safe_on_road.png",
+      "be_safe_on_road.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "हाथ/पैर/और/चेहरा/धोएं।",
+      "",
+      "wash_hands_legs_andface.png",
+      "wash_hands_legs_andface.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "अपना/खाना/साफ-सुथरा/खाओ।",
+      "",
+      "eat_your_food_neatly.png",
+      "eat_your_food_neatly.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "अपना/होमवर्क/करें।",
+      "",
+      "do_your_homework.png",
+      "do_your_homework.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "आनंद/लें/अपना/फुर्सत।",
+      "",
+      "enjoy_your_leisure.png",
+      "enjoy_your_leisure.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "अपने/परिवार से/बात/करें।",
+      "",
+      "talk_to_your_family.png",
+      "talk_to_your_family.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "अपने सबक सीखें",
+      "हाथ, पैर और चेहरा धोएं.",
+      "अपने परिवार से बात करें",
+      "अपने सबक सीखें",
+      "learn_your_lessons.png",
+      "",
+      "learn_your_lessons.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "हाथ, पैर और चेहरा धोएं.",
+      "अपने परिवार से बात करें",
+      "हाथ, पैर और चेहरा धोएं.",
+      "अपना खाना साफ-सुथरा खाएं.",
+      "wash_hands_legs_andface.png",
+      "",
+      "wash_hands_legs_andface.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "अपने परिवार से बात करें",
+      "अपने सबक सीखें",
+      "अपने परिवार से बात करें",
+      "हाथ, पैर और चेहरा धोएं.",
+      "talk_to_your_family.png",
+      "",
+      "talk_to_your_family.mp3"
+    ]
+  ]
+}
