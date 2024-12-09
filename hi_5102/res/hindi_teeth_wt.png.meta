@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b0622455-9ec6-4f48-8221-cbc5716bb61b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 465,
+  "platformSettings": {},
+  "subMetas": {
+    "hindi_teeth_wt": {
+      "ver": "1.0.4",
+      "uuid": "61f66c8f-8687-4989-b74e-a5452c766e5d",
+      "rawTextureUuid": "b0622455-9ec6-4f48-8221-cbc5716bb61b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 465,
+      "rawWidth": 512,
+      "rawHeight": 465,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

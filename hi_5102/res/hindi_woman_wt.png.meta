@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7b59c8e7-842b-4abb-b26e-db992635b66c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 341,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "hindi_woman_wt": {
+      "ver": "1.0.4",
+      "uuid": "c509e6c4-e94c-498c-b77f-25f41ff7511f",
+      "rawTextureUuid": "7b59c8e7-842b-4abb-b26e-db992635b66c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 341,
+      "height": 512,
+      "rawWidth": 341,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "rows": [
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "हरा/पत्ता",
+      "",
+      "leaf.png",
+      "हरा_पत्ता.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "नीला/आसमान",
+      "",
+      "sky.png",
+      "नीला_आसमान.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "लाल/सेब",
+      "",
+      "apple.png",
+      "लाल_सेब.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "नारंगी/गाजर",
+      "",
+      "carrot.png",
+      "नारंगी_गाजर.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "बैंगनी/अंगूर",
+      "",
+      "grapes.png",
+      "बैंगनी_अंगूर.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "काला/चमगादड़",
+      "",
+      "bat.png",
+      "काला_चमगादड़.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "सफ़ेद/बर्फ",
+      "",
+      "snow.png",
+      "सफ़ेद_बर्फ.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "भूरी/लकड़ी",
+      "",
+      "wood.png",
+      "भूरी_लकड़ी.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "हरा पत्ता",
+      "हरा पत्ता",
+      "नारंगी गाजर",
+      "सफ़ेद बर्फ",
+      "leaf.png",
+      "",
+      "हरा_पत्ता.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "नारंगी गाजर",
+      "सफ़ेद बर्फ",
+      "हरा पत्ता",
+      "नारंगी गाजर",
+      "carrot.png",
+      "",
+      "नारंगी_गाजर.mp3"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_sentence",
+      "सफ़ेद बर्फ",
+      "नारंगी गाजर",
+      "सफ़ेद बर्फ",
+      "हरा पत्ता",
+      "snow.png",
+      "",
+      "सफ़ेद_बर्फ.mp3"
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "67485397-a479-42c7-8659-42af90b9bd6a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 416,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "hindi_tooth_wt": {
+      "ver": "1.0.4",
+      "uuid": "654dd9b7-07dd-4a32-a79a-b931cfc969a2",
+      "rawTextureUuid": "67485397-a479-42c7-8659-42af90b9bd6a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 416,
+      "height": 512,
+      "rawWidth": 416,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

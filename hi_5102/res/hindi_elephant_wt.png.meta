@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a9a27a0a-5b60-4a4a-9c24-48dcbf2923d9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 418,
+  "platformSettings": {},
+  "subMetas": {
+    "hindi_elephant_wt": {
+      "ver": "1.0.4",
+      "uuid": "7700fa1e-0469-48f3-8af0-e863473d2d8f",
+      "rawTextureUuid": "a9a27a0a-5b60-4a4a-9c24-48dcbf2923d9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 418,
+      "rawWidth": 512,
+      "rawHeight": 418,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8a6e9ccf-149a-4751-b418-ed7a2c9f21f0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 468,
+  "platformSettings": {},
+  "subMetas": {
+    "hindi_books_wt": {
+      "ver": "1.0.4",
+      "uuid": "681ef700-7efc-4331-bb1b-6f23347f20ba",
+      "rawTextureUuid": "8a6e9ccf-149a-4751-b418-ed7a2c9f21f0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 468,
+      "rawWidth": 512,
+      "rawHeight": 468,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
