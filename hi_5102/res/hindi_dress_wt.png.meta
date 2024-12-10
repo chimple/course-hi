@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "09893c9a-901d-4fb8-b25c-8dec5f00dc38",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 339,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "hindi_dress_wt": {
+      "ver": "1.0.4",
+      "uuid": "a8fb72d7-50a1-4f87-aa74-a520c7451415",
+      "rawTextureUuid": "09893c9a-901d-4fb8-b25c-8dec5f00dc38",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 339,
+      "height": 512,
+      "rawWidth": 339,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d511fb8b-3a20-408f-90fa-1f2d8f5fce1f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 387,
+  "platformSettings": {},
+  "subMetas": {
+    "hindi_lions_wt": {
+      "ver": "1.0.4",
+      "uuid": "de0f2baf-6328-4ee2-a7fa-edb602783a10",
+      "rawTextureUuid": "d511fb8b-3a20-408f-90fa-1f2d8f5fce1f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 387,
+      "rawWidth": 512,
+      "rawHeight": 387,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

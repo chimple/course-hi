@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "63675234-0020-4f38-9015-22589d02dd2a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 328,
+  "platformSettings": {},
+  "subMetas": {
+    "hindi_cows_wt": {
+      "ver": "1.0.4",
+      "uuid": "efe95ad6-6f29-4557-8ac4-e5b2457536f9",
+      "rawTextureUuid": "63675234-0020-4f38-9015-22589d02dd2a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 328,
+      "rawWidth": 512,
+      "rawHeight": 328,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

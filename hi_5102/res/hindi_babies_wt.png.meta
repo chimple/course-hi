@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "dc1adcde-ff02-48fc-8300-e5238fcc9e37",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 393,
+  "platformSettings": {},
+  "subMetas": {
+    "hindi_babies_wt": {
+      "ver": "1.0.4",
+      "uuid": "612b3804-662e-42e1-a794-17b58f10db52",
+      "rawTextureUuid": "dc1adcde-ff02-48fc-8300-e5238fcc9e37",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 393,
+      "rawWidth": 512,
+      "rawHeight": 393,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

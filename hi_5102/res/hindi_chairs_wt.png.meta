@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4fe7f1a2-9152-4737-923c-a779a38dc9a5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 468,
+  "platformSettings": {},
+  "subMetas": {
+    "hindi_chairs_wt": {
+      "ver": "1.0.4",
+      "uuid": "a715d6e6-668e-4823-9bd6-c34d2a4579af",
+      "rawTextureUuid": "4fe7f1a2-9152-4737-923c-a779a38dc9a5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 468,
+      "rawWidth": 512,
+      "rawHeight": 468,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
