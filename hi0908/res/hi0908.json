@@ -1,6 +1,29 @@
 {
   "rows": [
     [
+      "openwindow",
+      "1",
+      "Description",
+      "LEGIT",
+      "कू,ड़ा",
+      "कूड़ा.png",
+      "नाक.png",
+      "कूड़ा.mp3",
+      "कू,ड़ा"
+    ],
+    [
+      "phonictractor",
+      "1",
+      "Description",
+      "5",
+      "कूदना",
+      "कूदना.mp3",
+      "कू",
+      "कू.mp3",
+      "द",
+      "द.mp3"
+    ],
+    [
       "rocket",
       "1",
       "Description",
