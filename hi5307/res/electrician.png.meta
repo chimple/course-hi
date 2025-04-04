@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0725c3c0-d103-4ca1-9e73-1e56dadddab0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 740,
+  "height": 740,
+  "platformSettings": {},
+  "subMetas": {
+    "electrician": {
+      "ver": "1.0.6",
+      "uuid": "4d7d977e-7ee9-4ee3-ac19-8bbf6d6973e1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0725c3c0-d103-4ca1-9e73-1e56dadddab0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 740,
+      "height": 740,
+      "rawWidth": 740,
+      "rawHeight": 740,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
