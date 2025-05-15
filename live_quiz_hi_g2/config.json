@@ -1,0 +1,288 @@
+{
+    "data": [
+        {
+            "options": [
+                {
+                    "image": "Auto rickshaw.png"
+                },
+                {
+                    "image": "boat.png"
+                },
+                {
+                    "image": "car.png"
+                },
+                {
+                    "image": "bicycle.png",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_21",
+                "text": "साइकिल",
+                "audio": "साइकिल.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "मगरमच्छ",
+                    "audio": "मगरमच्छ.mp3"
+                },
+                {
+                    "text": "साँप",
+                    "audio": "साँप.mp3"
+                },
+                {
+                    "text": "लोमड़ी",
+                    "audio": "लोमड़ी.mp3"
+                },
+                {
+                    "text": "छिपकली",
+                    "audio": "छिपकली.mp3",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_22",
+                "text": "शब्द को चित्र से मिलाये",
+                "image": "lizard.png",
+                "audio": "छिपकली.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "जय खाता है ।",
+                    "audio": "जय खाता है.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "मारिया तैरती है ।",
+                    "audio": "मारिया तैरती है.mp3"
+                },
+                {
+                    "text": "राम पढ़ता है ।",
+                    "audio": "राम पढ़ता है.mp3"
+                },
+                {
+                    "text": "कोमल चलती है ।",
+                    "audio": "कोमल चलती है.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_23",
+                "text": "चित्र का वर्णन करने वाला वाक्य चुनें",
+                "image": "eat.png",
+                "audio": "चित्र का वर्णन करने वाला वाक्य चुनें.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "लमबा",
+                    "audio": "लमबा.mp3"
+                },
+                {
+                    "text": "लम्बा",
+                    "audio": "लम्बा.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "लम्ब",
+                    "audio": "लम्ब.mp3"
+                },
+                {
+                    "text": "लाम्बा",
+                    "audio": "लाम्बा.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_24",
+                "text": "ल + म् + बा",
+                "audio": "लम्बा.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "हवाई जहाज बड़ा है।",
+                    "audio": "हवाई जहाज बड़ा है.mp3"
+                },
+                {
+                    "text": "सिंह बलवान है ।",
+                    "audio": "सिंह बलवान है.mp3"
+                },
+                {
+                    "text": "दूध स्वादिष्ट नहीं है।",
+                    "audio": "दूध स्वादिष्ट नहीं है.mp3"
+                },
+                {
+                    "text": "दूध स्वादिष्ट है।",
+                    "audio": "दूध स्वादिष्ट है.mp3",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_25",
+                "text": "सुनो और चुनो",
+                "audio": "दूध स्वादिष्ट है.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "गय",
+                    "audio": "गय.mp3"
+                },
+                {
+                    "text": "गाय",
+                    "audio": "गाय.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "घाय",
+                    "audio": "घाय.mp3"
+                },
+                {
+                    "text": "गायां",
+                    "audio": "गायां.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_26",
+                "text": "___ दूध देती है ।",
+                "image": "cow_makes_milk.png",
+                "audio": "गाय.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "जूते",
+                    "audio": "जूते.mp3"
+                },
+                {
+                    "text": "दाँत",
+                    "audio": "दाँत.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "पैर",
+                    "audio": "पैर.mp3"
+                },
+                {
+                    "text": "बाल",
+                    "audio": "बाल.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_27",
+                "text": "क्या तुमने अपने __ माँजे?",
+                "image": "brush_teeth.png",
+                "audio": "क्या तुमने अपने दाँत माँजे.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "माहसागर",
+                    "audio": "माहसागर.mp3"
+                },
+                {
+                    "text": "महासागरा",
+                    "audio": "महासागरा.mp3"
+                },
+                {
+                    "text": "महासगर",
+                    "audio": "महासगर.mp3"
+                },
+                {
+                    "text": "महासागर",
+                    "audio": "महासागर.mp3",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_28",
+                "text": "सही वर्तनी चुनें।",
+                "image": "ocean.png",
+                "audio": "महासागर.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "आसमान",
+                    "audio": "आसमान.mp3"
+                },
+                {
+                    "text": "है",
+                    "audio": "है.mp3"
+                },
+                {
+                    "text": "नीला",
+                    "audio": "नीला.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "रमा",
+                    "audio": "रमा.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_29",
+                "text": "विशेषण चुनें। - आसमान नीला है।",
+                "image": "sky.jpg",
+                "audio": "आसमान नीला है.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "चलती",
+                    "audio": "चलती.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "कोमल",
+                    "audio": "कोमल.mp3"
+                },
+                {
+                    "text": "है",
+                    "audio": "है.mp3"
+                },
+                {
+                    "text": "चलन",
+                    "audio": "चलन.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_30",
+                "text": "क्रिया चुनें। - कोमल चलती है।",
+                "image": "komal_walks.png",
+                "audio": "कोमल चलती है.mp3"
+            },
+            "questionType": "text"
+        }
+    ],
+    "type": "multiOptions"
+}

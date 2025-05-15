@@ -1,0 +1,283 @@
+{
+    "data": [
+        {
+            "options": [
+                {
+                    "text": "स",
+                    "audio": "स.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "द",
+                    "audio": "द.mp3"
+                },
+                {
+                    "text": "र",
+                    "audio": "र.mp3"
+                },
+                {
+                    "text": "ग",
+                    "audio": "ग.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_1",
+                "text": "सुनो और चुनो",
+                "audio": "स.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "सो",
+                    "audio": "सो.mp3"
+                },
+                {
+                    "text": "तो",
+                    "audio": "तो.mp3"
+                },
+                {
+                    "text": "को",
+                    "audio": "को.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "मो",
+                    "audio": "मो.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_2",
+                "text": "सुनो और चुनो",
+                "audio": "को.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "image": "pigeon.png"
+                },
+                {
+                    "image": "hen.png"
+                },
+                {
+                    "image": "parrot.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "peacock.png"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_3",
+                "text": "तोता",
+                "audio": "शब्द को चित्र से मिलाएं.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "हाथी",
+                    "audio": "हाथी.mp3"
+                },
+                {
+                    "text": "शेर",
+                    "audio": "शेर.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "भालू",
+                    "audio": "भालू.mp3"
+                },
+                {
+                    "text": "चीता",
+                    "audio": "चीता.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_4",
+                "text": "चित्र को शब्द से मिलाये",
+                "audio": "चित्र को शब्द से मिलाये.mp3",
+                "image": "lion.png"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "बु",
+                    "audio": "बु.mp3"
+                },
+                {
+                    "text": "बू",
+                    "audio": "बू.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "भू",
+                    "audio": "भू.mp3"
+                },
+                {
+                    "text": "बो",
+                    "audio": "बो.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_5",
+                "text": "तर_ज",
+                "image": "watermelon.webp",
+                "audio": "तरबूज.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "पगड़ी",
+                    "audio": "पगड़ी.mp3"
+                },
+                {
+                    "text": "संधी",
+                    "audio": "संधी.mp3"
+                },
+                {
+                    "text": "घमंडी",
+                    "audio": "घमंडी.mp3"
+                },
+                {
+                    "text": "लोमड़ी",
+                    "audio": "लोमड़ी.mp3",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_6",
+                "text": "सुनो और चुनो",
+                "audio": "लोमड़ी.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "लू",
+                    "audio": "लू.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "लो",
+                    "audio": "लो.mp3"
+                },
+                {
+                    "text": "ल",
+                    "audio": "ल.mp3"
+                },
+                {
+                    "text": "ली",
+                    "audio": "ली.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_7",
+                "text": "लि ली लु _ले लै",
+                "audio": "लू.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "छ",
+                    "audio": "छ.mp3"
+                },
+                {
+                    "text": "च",
+                    "audio": "च.mp3"
+                },
+                {
+                    "text": "आ",
+                    "audio": "आ.mp3"
+                },
+                {
+                    "text": "चा",
+                    "audio": "चा.mp3",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_8",
+                "text": "सही शब्द चुनें।",
+                "audio": "चा.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ऐ",
+                    "audio": "ऐ.mp3"
+                },
+                {
+                    "text": "प्",
+                    "audio": "प्.mp3"
+                },
+                {
+                    "text": "पै",
+                    "audio": "पै.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "पऐ",
+                    "audio": "पऐ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_9",
+                "text": "सही शब्द चुनें।",
+                "audio": "पै.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "लकड़ी",
+                    "audio": "लकड़ी.mp3"
+                },
+                {
+                    "text": "लुड़की",
+                    "audio": "लुड़की.mp3"
+                },
+                {
+                    "text": "लड़की",
+                    "audio": "लड़की.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "लड़खि",
+                    "audio": "लड़खि.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_10",
+                "text": "सही वर्तनी चुनें",
+                "audio": "लड़की.mp3"
+            },
+            "questionType": "text"
+        }
+    ],
+    "type": "multiOptions"
+}
