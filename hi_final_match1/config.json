@@ -1,0 +1,380 @@
+{
+    "data": [
+        {
+            "options": [
+                {
+                    "text": "स",
+                    "audio": "स.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "द",
+                    "audio": "द.mp3"
+                },
+                {
+                    "text": "र",
+                    "audio": "र.mp3"
+                },
+                {
+                    "text": "ग",
+                    "audio": "ग.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_1",
+                "text": "सुनो और चुनो",
+                "audio": "स.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "सो",
+                    "audio": "सो.mp3"
+                },
+                {
+                    "text": "तो",
+                    "audio": "तो.mp3"
+                },
+                {
+                    "text": "को",
+                    "audio": "को.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "मो",
+                    "audio": "मो.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_2",
+                "text": "सुनो और चुनो",
+                "audio": "को.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "image": "pigeon.png"
+                },
+                {
+                    "image": "hen.png"
+                },
+                {
+                    "image": "parrot.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "peacock.png"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_3",
+                "text": "तोता",
+                "audio": "शब्द को चित्र से मिलाएं.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "हाथी",
+                    "audio": "हाथी.mp3"
+                },
+                {
+                    "text": "शेर",
+                    "audio": "शेर.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "भालू",
+                    "audio": "भालू.mp3"
+                },
+                {
+                    "text": "चीता",
+                    "audio": "चीता.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_4",
+                "text": "चित्र को शब्द से मिलाये",
+                "image": "lion.png"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "image": "बु",
+                    "audio": "बु.mp3"
+                },
+                {
+                    "image": "बू",
+                    "audio": "बू.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "image": "भू",
+                    "audio": "भू.mp3"
+                },
+                {
+                    "image": "बो",
+                    "audio": "बो.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_5",
+                "text": "तर_ज",
+                "image": "watermelon.webp",
+                "audio": "तरबूज.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "r",
+                    "isCorrect": true
+                },
+                {
+                    "text": "k"
+                },
+                {
+                    "text": "l"
+                },
+                {
+                    "text": "t"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_6",
+                "text": "R"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "image": "rhinoceros.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "hippo.png"
+                },
+                {
+                    "image": "lion.png"
+                },
+                {
+                    "image": "elephant .png"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_7",
+                "text": "Rhinoceros",
+                "audio": "rhinoceros.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "farmer",
+                    "isCorrect": true
+                },
+                {
+                    "text": "doctor"
+                },
+                {
+                    "text": "barber"
+                },
+                {
+                    "text": "teacher"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_8",
+                "text": "The ______ grows our food.",
+                "image": "farmer.png",
+                "audio": "The farmer grows our food.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "excuse me"
+                },
+                {
+                    "text": "sorry"
+                },
+                {
+                    "text": "thank you"
+                },
+                {
+                    "text": "please",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_9",
+                "text": "Will you open this bottle, ?"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "He",
+                    "isCorrect": true
+                },
+                {
+                    "text": "She"
+                },
+                {
+                    "text": "They"
+                },
+                {
+                    "text": "We"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_10",
+                "text": "__ stands next to the tree.",
+                "image": "nexttotree.png"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "image": "9.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "10.png"
+                },
+                {
+                    "image": "11.png"
+                },
+                {
+                    "image": "8.png"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_11",
+                "text": "9",
+                "audio": "nine.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "image": "circle.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "rectangle.png"
+                },
+                {
+                    "image": "square.png"
+                },
+                {
+                    "image": "triangle.png"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_12",
+                "text": "Circle",
+                "audio": "Circle.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "45",
+                    "isCorrect": true
+                },
+                {
+                    "text": "43"
+                },
+                {
+                    "text": "39"
+                },
+                {
+                    "text": "41"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_13",
+                "text": "Which is the biggest number?",
+                "audio": "Which is the biggest number.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "sphere"
+                },
+                {
+                    "text": "cone"
+                },
+                {
+                    "text": "cylinder"
+                },
+                {
+                    "text": "cube",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_14",
+                "image": "cube.png"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "7"
+                },
+                {
+                    "text": "5"
+                },
+                {
+                    "text": "8",
+                    "isCorrect": true
+                },
+                {
+                    "text": "9"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_15",
+                "text": "4, 6, _, 10",
+                "audio": "Skip by twos.mp3"
+            },
+            "questionType": "text"
+        }
+    ],
+    "type": "multiOptions"
+}
