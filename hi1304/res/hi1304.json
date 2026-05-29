@@ -4,10 +4,10 @@
       "createsentence",
       "1",
       "Description",
-      "सुमन/तेज़ी से/खाती है|",
+      "सुमन/जल्दी -जल्दी/खाती है ।",
       "",
-      "I_eat.jpg",
-      "सुमन_तेजी_से_खाती_है.mp3"
+      "eat.jpg",
+      "सुमन_जल्दी_जल्दी_खाती_है.mp3"
     ],
     [
       "createsentence",
@@ -40,10 +40,10 @@
       "createsentence",
       "1",
       "Description",
-      "हम/कल/तैर गए",
+      "हम/कल/तैरने/गए।",
       "",
       "Weswamyesterday.jpg",
-      "हम_कल_तैर_गए.mp3"
+      "हमकलतैरनेगए।.mp3"
     ],
     [
       "createsentence",
