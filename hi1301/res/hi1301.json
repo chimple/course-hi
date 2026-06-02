@@ -4,9 +4,9 @@
       "createsentence",
       "1",
       "Description",
-      "मगरमच्छ/तैरता/है।",
+      "मगरमच्छ तैरता है।",
       "",
-      "The_crocodileswims.jpg",
+      "The_crocodileswim.jpeg",
       "मगरमच्छ तैरता है ।.mp3"
     ],
     [
@@ -68,11 +68,11 @@
       "1",
       "Description",
       "image_sentence",
-      "मगरमच्छ तैरता  है ।",
+      "मगरमच्छ तैरता है",
       "चिड़िया उड़ती है",
-      "मगरमच्छ तैरता  है ।",
+      "मगरमच्छ तैरता है",
       "गाय खाती है",
-      "The_crocodileswims.jpg",
+      "TThe_crocodileswim.jpeg",
       "",
       "मगरमच्छ तैरता है ।.mp3"
     ],
@@ -97,7 +97,7 @@
       "Komalreadsa_book.jpg",
       "Komalreadsa_book.jpg",
       "Birdsfly.jpg",
-      "The_crocodileswims.jpg",
+      "The_crocodileswim.jpeg",
       "",
       "",
       "वो_पढ़ती_है.mp3"
